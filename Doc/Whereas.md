@@ -1,222 +1,311 @@
 <details>
-  <summary>
-    <strong>(01) TLDR: EU wants common rules to make digital products more secure because cyberattacks are growing and users can’t easily choose or use safe products.</strong>
-  </summary>
-  Cybersecurity is one of the key challenges for the Union. The number and variety of connected devices will rise exponentially in the coming years. Cyberattacks represent a matter of public interest as they have a critical impact not only on the Union’s economy, but also on democracy as well as consumer safety and health. It is therefore necessary to strengthen the Union’s approach to cybersecurity, address cyber resilience at Union level and improve the functioning of the internal market by laying down a uniform legal framework for essential cybersecurity requirements for placing products with digital elements on the Union market. Two major problems adding costs for users and society should be addressed: a low level of cybersecurity of products with digital elements, reflected by widespread vulnerabilities and the insufficient and inconsistent provision of security updates to address them, and an insufficient understanding and access to information by users, preventing them from choosing products with adequate cybersecurity properties or using them in a secure manner.
+  <summary><strong>(01) TLDR: EU wants common rules to make digital products more secure because cyberattacks are growing and users can’t easily choose or use safe products.</strong></summary>
+Cybersecurity is one of the key challenges for the Union. The number and variety of connected devices will rise exponentially in the coming years. Cyberattacks represent a matter of public interest as they have a critical impact not only on the Union’s economy, but also on democracy as well as consumer safety and health. It is therefore necessary to strengthen the Union’s approach to cybersecurity, address cyber resilience at Union level and improve the functioning of the internal market by laying down a uniform legal framework for essential cybersecurity requirements for placing products with digital elements on the Union market. Two major problems adding costs for users and society should be addressed: a low level of cybersecurity of products with digital elements, reflected by widespread vulnerabilities and the insufficient and inconsistent provision of security updates to address them, and an insufficient understanding and access to information by users, preventing them from choosing products with adequate cybersecurity properties or using them in a secure manner.
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
 <details>
-  <summary>(00)</summary>
-  ...
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
 </details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+<details>
+  <summary><strong>(00) TLDR: ...</strong></summary>
+...
+</details>
+
+
