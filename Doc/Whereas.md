@@ -19,8 +19,8 @@ While existing Union law applies to certain products with digital elements, ther
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(05) TLDR: Authorities must apply all the rules of Recommendation 2003/361/EC, including how to count staff and finances for partner and linked enterprises, when classifying a company as a micro or SME.</strong></summary>
+As regards microenterprises and small and medium-sized enterprises, when determining the category an enterprise falls into, the provisions of the Annex to Recommendation 2003/361/EC should be applied in their entirety. Therefore, when calculating the staff headcount and financial ceilings determining the enterprise categories, the provisions of Article 6 of the Annex to Recommendation 2003/361/EC on establishing the data of an enterprise in consideration of specific types of enterprises, such as partner enterprises or linked enterprises, should also be applied.
 </details>
 
 <details>
