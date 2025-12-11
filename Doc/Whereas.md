@@ -4,8 +4,8 @@ Cybersecurity is one of the key challenges for the Union. The number and variety
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(02) TLDR: The regulation wants digital products to be more secure throughout their life and to help users choose them by giving clearer security information.</strong></summary>
+This Regulation aims to set the boundary conditions for the development of secure products with digital elements by ensuring that hardware and software products are placed on the market with fewer vulnerabilities and that manufacturers take security seriously throughout a product’s lifecycle. It also aims to create conditions allowing users to take cybersecurity into account when selecting and using products with digital elements, for example by improving transparency with regard to the support period for products with digital elements made available on the market.
 </details>
 
 <details>
