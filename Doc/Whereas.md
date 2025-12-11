@@ -9,8 +9,8 @@ This Regulation aims to set the boundary conditions for the development of secur
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(03) TLDR: Current EU cybersecurity rules cover some related aspects, but none yet set mandatory security requirements for products with digital elements.</strong></summary>
+Relevant Union law in force comprises several sets of horizontal rules that address certain aspects linked to cybersecurity from different angles, including measures to improve the security of the digital supply chain. However, existing Union law related to cybersecurity, including Regulation (EU) 2019/881 of the European Parliament and of the Council (3) and Directive (EU) 2022/2555 of the European Parliament and of the Council (4), does not directly cover mandatory requirements for the security of products with digital elements.
 </details>
 
 <details>
