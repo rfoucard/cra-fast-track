@@ -34,8 +34,8 @@ At Union level, various programmatic and political documents, such as the Joint 
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(08) TLDR: The EU wants horizontal, technology-neutral essential cybersecurity rules</strong> to raise the cybersecurity level of all digital products on the internal market.</summary>
+To increase the overall level of cybersecurity of all products with digital elements placed on the internal market, it is necessary to introduce objective-oriented and technology-neutral essential cybersecurity requirements for those products that apply horizontally.
 </details>
 
 <details>
