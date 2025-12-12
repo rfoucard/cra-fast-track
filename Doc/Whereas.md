@@ -24,8 +24,8 @@ As regards microenterprises and small and medium-sized enterprises, when determi
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(06) TLDR: The Commission will give guidance to help economic operators, especially SMEs, apply this Regulation, explaining its scope, support periods, links with other EU laws and what a substantial modification is.</strong></summary>
+The Commission should provide guidance to assist economic operators, in particular microenterprises and small and medium-sized enterprises, in the application of this Regulation. Such guidance should cover, inter alia, the scope of this Regulation, in particular remote data processing and its implications for free and open-source software developers, the application of the criteria used to determine support periods for products with digital elements, the interplay between this Regulation and other Union law and the concept of substantial modification.
 </details>
 
 <details>
