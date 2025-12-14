@@ -79,7 +79,7 @@ This Regulation applies to economic operators only in relation to products with 
 </details>
 
 <details>
-  <summary><strong>(16) TLDR: Cost-recovery services</strong> are not treated as commercial, and digital products <strong>developed or adapted by public administrations only for their own use</strong> are not considered placed on the market.</summary>
+  <summary><strong>(16) Products charged for cost-recovery</strong> are not treated as commercial, and <strong>products implemented by public administrations only for their own use</strong> are not considered placed on the market.</summary>
 Products with digital elements provided as part of the delivery of a service for which a fee is charged solely to recover the actual costs directly related to the operation of that service, such as may be the case with certain products with digital elements provided by public administration entities, should not be considered on those grounds alone to be a commercial activity for the purposes of this Regulation. Furthermore, products with digital elements which are developed or modified by a public administration entity exclusively for its own use should not be considered to be made available on the market within the meaning of this Regulation.
 </details>
 
