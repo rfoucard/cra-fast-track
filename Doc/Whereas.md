@@ -74,8 +74,8 @@ This Regulation should be without prejudice to the Member States’ responsibili
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(15) TLDR: This Regulation applies to economic operators</strong> only when digital products are supplied as part of a commercial activity (for example through payment, monetisation or profit-making donations), but not when donations only cover costs.</summary>
+This Regulation applies to economic operators only in relation to products with digital elements made available on the market, hence supplied for distribution or use on the Union market in the course of a commercial activity. Supply in the course of a commercial activity might be characterised not only by charging a price for a product with digital elements, but also by charging a price for technical support services where this does not serve only the recuperation of actual costs, by an intention to monetise, for instance by providing a software platform through which the manufacturer monetises other services, by requiring as a condition for use the processing of personal data for reasons other than exclusively for improving the security, compatibility or interoperability of the software, or by accepting donations exceeding the costs associated with the design, development and provision of a product with digital elements. Accepting donations without the intention of making a profit should not be considered to be a commercial activity.
 </details>
 
 <details>
