@@ -84,8 +84,8 @@ Products with digital elements provided as part of the delivery of a service for
 </details>
 
 <details>
-  <summary><strong>(00) TLDR: ...</strong></summary>
-...
+  <summary><strong>(17) TLDR: Openly shared free and open-source software</strong> supports innovation, so when it is used commercially this Regulation should reflect its different development models and support its use, especially by SMEs, individuals, non-profits and researchers.</summary>
+Software and data that are openly shared and where users can freely access, use, modify and redistribute them or modified versions thereof, can contribute to research and innovation in the market. To foster the development and deployment of free and open-source software, in particular by microenterprises and small and medium-sized enterprises, including start-ups, individuals, not-for-profit organisations, and academic research organisations, the application of this Regulation to products with digital elements qualifying as free and open-source software supplied for distribution or use in the course of a commercial activity should take into account the nature of the different development models of software distributed and developed under free and open-source software licences.
 </details>
 
 <details>
