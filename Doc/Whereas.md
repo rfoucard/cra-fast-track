@@ -109,7 +109,7 @@ In order to support and facilitate the due diligence of manufacturers that integ
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(22) A dedicated ADCO group can run Union dependency assessments</strong> by asking manufacturers for SBOMs of certain products, especially where free and open-source components are used, and sharing only anonymised, aggregated dependency data.</summary>
 ...
 </details>
 
