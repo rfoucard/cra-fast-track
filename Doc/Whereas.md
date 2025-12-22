@@ -99,13 +99,13 @@ Taking into account the importance for cybersecurity of many products with digit
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
+  <summary><strong>(20) Service providers are distributors only if they supply the software commercially on the EU market.</strong></summary>
+The sole act of hosting products with digital elements on open repositories, including through package managers or on collaboration platforms, does not in itself constitute the making available on the market of a product with digital elements. Providers of such services should be considered to be distributors only if they make such software available on the market and hence supply it for distribution or use on the Union market in the course of a commercial activity.
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
+  <summary><strong>(21) Free and open-source software can benefit from voluntary security attestation schemes,</strong> tailored to FOSS development models and open to requests or funding from developers, integrators, users or public authorities.</summary>
+In order to support and facilitate the due diligence of manufacturers that integrate free and open-source software components that are not subject to the essential cybersecurity requirements set out in this Regulation into their products with digital elements, the Commission should be able to establish voluntary security attestation programmes, either by a delegated act supplementing this Regulation or by requesting a European cybersecurity certification scheme pursuant to Article 48 of Regulation (EU) 2019/881 that takes into account the specificities of the free and open-source software development models. The security attestation programmes should be conceived in such a way that not only natural or legal persons developing or contributing to the development of a product with digital elements qualifying as free and open-source software can initiate or finance a security attestation but also third parties, such as manufacturers that integrate such products into their own products with digital elements, users, or Union and national public administrations.
 </details>
 
 <details>
