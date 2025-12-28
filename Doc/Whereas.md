@@ -410,12 +410,12 @@ Regulation (EU) 2019/881 establishes a voluntary European cybersecurity certific
 </details>
 
 <details>
-  <summary><strong>(82) For products covered by the EUCC, the Commission can use a delegated act to say when an EUCC certificate both gives presumption of conformity with this Regulation’s cybersecurity requirements and replaces the need for an extra third-party assessment for the same points.</strong></summary>
+  <summary><strong>(82) For products covered by the EUCC, the Commission can use a delegated act</strong> to say when an EUCC certificate both gives presumption of conformity with this Regulation’s cybersecurity requirements and replaces the need for an extra third-party assessment for the same points.</summary>
 Upon entry into force of Implementing Regulation (EU) 2024/482 which concerns products that fall within the scope of this Regulation, such as hardware security modules and microprocessors, the Commission should be able to specify, by means of a delegated act, how the EUCC provides a presumption of conformity with the essential cybersecurity requirements as set out in this Regulation or parts thereof. Furthermore, such a delegated act may specify how a certificate issued under the EUCC eliminates the obligation for manufacturers to carry out a third-party assessment as required pursuant to this Regulation for corresponding requirements.
 </details>
 
 <details>
-  <summary><strong>(83) The EU will mainly use harmonised, consensus-based standards to show compliance with this Regulation’s cybersecurity requirements, but if standardisation is blocked or too delayed, the Commission can exceptionally set common specifications via implementing acts while respecting standardisation bodies’ role.</strong></summary>
+  <summary><strong>(83) The EU will mainly use harmonised, consensus-based standards to show compliance</strong> with this Regulation’s cybersecurity requirements, but if standardisation is blocked or too delayed, the Commission can exceptionally set common specifications via implementing acts while respecting standardisation bodies’ role.</summary>
 The current European standardisation framework, which is based on the New Approach principles set out in Council Resolution of 7 May 1985 on a new approach to technical harmonization and standards and on Regulation (EU) No 1025/2012, represents the framework by default to elaborate standards that provide for a presumption of conformity with the relevant essential cybersecurity requirements set out in this Regulation. European standards should be market-driven, take into account the public interest, as well as the policy objectives clearly stated in the Commission’s request to one or more European standardisation organisations to draft harmonised standards, within a set deadline, and be based on consensus. However, in the absence of relevant references to harmonised standards, the Commission should be able to adopt implementing acts establishing common specifications for the essential cybersecurity requirements set out in this Regulation, provided that in doing so it duly respects the role and functions of European standardisation organisations, as an exceptional fall back solution to facilitate the manufacturer’s obligation to comply with those essential cybersecurity requirements, where the standardisation process is blocked or where there are delays in the establishment of appropriate harmonised standards. If such delay is due to the technical complexity of the standard in question, this should be considered by the Commission before considering whether to establish common specifications.
 </details>
 
@@ -425,7 +425,7 @@ With a view to establishing, in the most efficient way, common specifications th
 </details>
 
 <details>
-  <summary><strong>(85) “Reasonable period” means the time until a harmonised standard is published in the Official Journal, and it should be no more than one year after the deadline set for drafting that standard.</strong></summary>
+  <summary><strong>(85) “Reasonable period” means the time until a harmonised standard is published in the Official Journal, and it should be no more than one year</strong> after the deadline set for drafting that standard.</summary>
 ‘Reasonable period’ has the meaning, in relation to the publication of a reference to harmonised standards in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012, of a period during which the publication in the Official Journal of the European Union of the reference to the standard, its corrigendum or its amendment is expected and which should not exceed one year after the deadline for drafting a European standard set in accordance with Regulation (EU) No 1025/2012.
 </details>
 
