@@ -524,38 +524,38 @@ Since notified bodies may offer their services throughout the Union, it is appro
 </details>
 
 <details>
-  <summary><strong>(105) ...</strong></summary>
-...
+  <summary><strong>(105) Notified bodies should apply conformity procedures in a consistent, coordinated way that avoids unnecessary burdens for economic operators.</strong></summary>
+In the interests of competitiveness, it is crucial that notified bodies apply the conformity assessment procedures without creating unnecessary burden for economic operators. For the same reason, and to ensure equal treatment of economic operators, consistency in the technical application of the conformity assessment procedures needs to be ensured. That should be best achieved through appropriate coordination and cooperation between notified bodies.
 </details>
 
 <details>
-  <summary><strong>(106) ...</strong></summary>
-...
+  <summary><strong>(106) Union market surveillance and import control rules in Regulation (EU) 2019/1020 apply to digital products under this Regulation, providing the common framework for checking their compliance.</strong></summary>
+Market surveillance is an essential instrument in ensuring the proper and uniform application of Union law. It is therefore appropriate to put in place a legal framework within which market surveillance can be carried out in an appropriate manner. The rules on Union market surveillance and control of products entering the Union market provided for in Regulation (EU) 2019/1020 apply to products with digital elements that fall within the scope of this Regulation.
 </details>
 
 <details>
-  <summary><strong>(107) ...</strong></summary>
-...
+  <summary><strong>(107) Each Member State should designate one or more market surveillance authorities (plus a single liaison office) to enforce this Regulation under the EU market surveillance framework, and economic operators should fully cooperate with them.</strong></summary>
+In accordance with Regulation (EU) 2019/1020, a market surveillance authority carries out market surveillance in the territory of the Member State that designates it. This Regulation should not prevent Member States from choosing the competent authorities to carry out market surveillance tasks. Each Member State should designate one or more market surveillance authorities in its territory. Member States should be able to choose to designate any existing or new authority to act as market surveillance authority, including competent authorities designated or established pursuant to Article 8 of Directive (EU) 2022/2555, national cybersecurity certification authorities designated pursuant to Article 58 of Regulation (EU) 2019/881 or market surveillance authorities designated for the purposes of Directive 2014/53/EU. Economic operators should fully cooperate with market surveillance authorities and other competent authorities. Each Member State should inform the Commission and the other Member States of its market surveillance authorities and the areas of competence of each of those authorities and should ensure the necessary resources and skills to carry out the market surveillance tasks relating to this Regulation. Pursuant to Article 10(2) and (3) of Regulation (EU) 2019/1020, each Member State should appoint a single liaison office that should be responsible, inter alia, for representing the coordinated position of the market surveillance authorities and assisting in the cooperation between market surveillance authorities in different Member States.
 </details>
 
 <details>
-  <summary><strong>(108) ...</strong></summary>
-...
+  <summary><strong>(108) A dedicated ADCO for cyber resilience should bring together market surveillance authorities (and liaison offices), with Commission support via the Product Compliance Network, to ensure uniform application of this Regulation and coordinate with other ADCOs and experts.</strong></summary>
+A dedicated ADCO for the cyber resilience of products with digital elements should be established for the uniform application of this Regulation, pursuant to Article 30(2) of Regulation (EU) 2019/1020. ADCO should be composed of representatives of the designated market surveillance authorities and, if appropriate, representatives of the single liaison offices. The Commission should support and encourage cooperation between market surveillance authorities through the Union Product Compliance Network established pursuant to Article 29 of Regulation (EU) 2019/1020 and comprising representatives from each Member State, including a representative of each single liaison office as referred to in Article 10 of that Regulation and an optional national expert, the chairs of ADCOs, and representatives from the Commission. The Commission should participate in the meetings of the Union Product Compliance Network, its sub-groups and ADCO. It should also assist ADCO by means of an executive secretariat that provides technical and logistic support. ADCO may also invite independent experts to participate, and liaise with other ADCOs, such as that established under Directive 2014/53/EU.
 </details>
 
 <details>
-  <summary><strong>(109) ...</strong></summary>
-...
+  <summary><strong>(109) Through ADCO, market surveillance authorities should cooperate closely and develop guidance, best practices and indicators to help check national compliance with this Regulation.</strong></summary>
+Market surveillance authorities, through ADCO established under this Regulation, should cooperate closely and should be able to develop guidance documents to facilitate market surveillance activities at national level, such as by developing best practices and indicators to effectively check the compliance of products with digital elements with this Regulation.
 </details>
 
 <details>
-  <summary><strong>(110) ...</strong></summary>
-...
+  <summary><strong>(110) There should be an EU safeguard procedure so authorities can act early and proportionately on products with serious cybersecurity risks, inform interested parties, and only involve the Commission further if the problem stems from a flawed harmonised standard.</strong></summary>
+In order to ensure timely, proportionate and effective measures in relation to products with digital elements presenting a significant cybersecurity risk, a Union safeguard procedure under which interested parties are informed of measures intended to be taken with regard to such products should be provided for. This should also allow market surveillance authorities, in cooperation with the relevant economic operators, to act at an earlier stage where necessary. Where the Member States and the Commission agree as to the justification of a measure taken by a Member State, no further involvement of the Commission should be required, except where non-compliance can be attributed to shortcomings of a harmonised standard.
 </details>
 
 <details>
   <summary><strong>(111) ...</strong></summary>
-...
+In certain cases, a product with digital elements which complies with this Regulation can nonetheless present a significant cybersecurity risk or pose a risk to the health or safety of persons, to compliance with obligations under Union or national law intended to protect fundamental rights, to the availability, authenticity, integrity or confidentiality of services offered using an electronic information system by essential entities as referred to in Article 3(1) of Directive (EU) 2022/2555 or to other aspects of public interest protection. Therefore it is necessary to establish rules which ensure mitigation of those risks. As a result, market surveillance authorities should take measures to require the economic operator to ensure that the product no longer presents that risk, or to recall or withdraw it, depending on the risk. As soon as a market surveillance authority restricts or forbids the free movement of a product with digital elements in such way, the Member State should notify without delay the Commission and the other Member States of the provisional measures, indicating the reasons and justification for the decision. Where a market surveillance authority adopts such measures against products with digital elements presenting a risk, the Commission should enter into consultation with the Member States and the relevant economic operator or operators without delay and should evaluate the national measure. On the basis of the results of this evaluation, the Commission should decide whether the national measure is justified or not. The Commission should address its decision to all Member States and immediately communicate it to them and the relevant economic operator or operators. If the measure is considered to be justified, the Commission should also consider whether to adopt proposals to revise the relevant Union law.
 </details>
 
 <details>
