@@ -1,6 +1,8 @@
 # Cyber Resilience Act – Recitals (“Whereas”) Overview & Structure
 
-Summaries and full text of the Cyber Resilience Act recitals (“Whereas”), grouped by theme to show the structure and logic of the Regulation.
+The “whereas” recitals explain why the law exists and what problems and goals it addresses. They provide context and show how this Regulation fits with other EU laws. They don’t create direct obligations, but they guide how the binding articles should be interpreted in practice. They also document the legislator’s intentions and policy choices, which is crucial for authorities, courts and stakeholders when applying or revising the rules.
+
+This version adds summaries as "TLDR;", and groups by theme to show the structure and logic of the recitals.
 
 - **Estimated reading time (summaries only):** ~15 minutes  
 - **Estimated reading time (full text + summaries):** ~60 minutes
