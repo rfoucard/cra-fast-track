@@ -314,673 +314,342 @@ In order to ensure that manufacturers across the Union determine similar support
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
+  <summary><strong>(63) Manufacturers must provide an easily accessible, up-to-date single point of contact for users to report and receive information about vulnerabilities</strong>, and it cannot rely solely on automated tools (they must also offer human contact like phone, email or a form).</summary>
+Manufacturers should set up a single point of contact that enables users to communicate easily with them, including for the purpose of reporting on and receiving information about the vulnerabilities of the product with digital element. They should make the single point of contact easily accessible for users and clearly indicate its availability, keeping this information up to date. Where manufacturers choose to offer automated tools, e.g. chat boxes, they should also offer a phone number or other digital means of contact, such as an email address or a contact form. The single point of contact should not rely exclusively on automated tools.
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(64) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(65) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(66) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(67) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(68) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(69) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(70) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(71) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(72) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(73) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(74) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(75) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(76) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(77) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(78) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(79) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(80) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(81) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(82) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(83) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(84) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(85) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(86) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(87) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(88) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(89) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(90) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(91) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(92) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(93) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(94) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(95) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(96) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(97) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(98) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(99) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(100) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(101) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(102) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(103) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(104) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(105) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(106) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(107) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(108) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(109) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(110) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(111) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(112) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(113) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(114) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(115) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(116) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(117) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(118) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(119) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(120) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(121) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(122) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(123) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(124) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(125) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(126) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(127) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(128) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(129) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(130) ...</strong></summary>
 ...
 </details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
-<details>
-  <summary><strong>(00) ...</strong></summary>
-...
-</details>
-
 
