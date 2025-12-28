@@ -444,83 +444,83 @@ Manufacturers should draw up an EU declaration of conformity to provide informat
 </details>
 
 <details>
-  <summary><strong>(89) ...</strong></summary>
-...
+  <summary><strong>(89) The CE marking should be the single visible sign that a digital product has passed conformity assessment and complies with this Regulation’s requirements.</strong></summary>
+The CE marking, indicating the conformity of a product, is the visible consequence of a whole process comprising conformity assessment in a broad sense. The general principles governing the CE marking are set out in Regulation (EC) No 765/2008 of the European Parliament and of the Council (29). Rules governing the affixing of the CE marking on products with digital elements should be laid down in this Regulation. The CE marking should be the only marking which guarantees that products with digital elements comply with the requirements set out in this Regulation.
 </details>
 
 <details>
-  <summary><strong>(90) ...</strong></summary>
-...
+  <summary><strong>(90) Conformity assessment procedures, based on the standard EU modules, should be used to check that digital products and their lifecycle processes meet this Regulation’s essential cybersecurity requirements.</strong></summary>
+In order to allow economic operators to demonstrate conformity with the essential cybersecurity requirements set out in this Regulation and to allow market surveillance authorities to ensure that products with digital elements made available on the market comply with those requirements, it is necessary to provide for conformity assessment procedures. Decision No 768/2008/EC of the European Parliament and of the Council (30) establishes modules for conformity assessment procedures in proportion to the level of risk involved and the level of security required. In order to ensure inter-sectoral coherence and to avoid ad-hoc variants, conformity assessment procedures adequate for verifying the conformity of products with digital elements with the essential cybersecurity requirements set out in this Regulation should be based on those modules. The conformity assessment procedures should examine and verify both product and process-related requirements covering the whole lifecycle of products with digital elements, including planning, design, development or production, testing and maintenance of the product with digital elements.
 </details>
 
 <details>
-  <summary><strong>(91) ...</strong></summary>
-...
+  <summary><strong>(91) Non-important/critical products can follow manufacturer self-assessment (module A), class I important products may do so only if they use recognised standards/CS/certification otherwise they need third-party assessment (modules B+C or H), class II important products always need third-party assessment, and important FOSS products may use module A if they publish their technical documentation.</strong></summary>
+Conformity assessment of products with digital elements that are not listed as important or critical products with digital elements in this Regulation can be carried out by the manufacturer under its own responsibility following the internal control procedure based on module A of Decision No 768/2008/EC in accordance with this Regulation. This also applies to cases where a manufacturer chooses not to apply in whole or in part an applicable harmonised standard, common specification or European cybersecurity certification scheme. The manufacturer retains the flexibility to choose a stricter conformity assessment procedure involving a third party. Under the internal control conformity assessment procedure, the manufacturer ensures and declares on its sole responsibility that the product with digital elements and the processes of the manufacturer meet the applicable essential cybersecurity requirements set out in this Regulation. If an important product with digital elements falls under class I, additional assurance is required to demonstrate conformity with the essential cybersecurity requirements set out in this Regulation. The manufacturer should apply harmonised standards, common specifications or European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 which have been identified by the Commission in an implementing act if it wants to carry out the conformity assessment under its own responsibility (module A). If the manufacturer does not apply such harmonised standards, common specifications or European cybersecurity certification schemes, the manufacturer should undergo conformity assessment involving a third party (based on modules B and C or module H). Taking into account the administrative burden on manufacturers and the fact that cybersecurity plays an important role in the design and development phase of tangible and intangible products with digital elements, conformity assessment procedures based on modules B and C or module H of Decision No 768/2008/EC have been chosen as most appropriate for assessing the compliance of important products with digital elements in a proportionate and effective manner. The manufacturer that carries out the third-party conformity assessment can choose the procedure that best suits its design and production process. Given the even greater cybersecurity risk linked with the use of important products with digital elements that fall under class II, the conformity assessment should always involve a third party, even where the product complies fully or partly with harmonised standards, common specifications or European cybersecurity certification schemes. Manufacturers of important products with digital elements qualifying as free and open-source software should be able to follow the internal control procedure based on module A, provided that they make the technical documentation available to the public.
 </details>
 
 <details>
-  <summary><strong>(92) ...</strong></summary>
-...
+  <summary><strong>(92) For software products, activities like compiling, building, packaging or preparing downloads should be treated as “production” when applying conformity assessment modules to check compliance with this Regulation’s essential cybersecurity requirements.</strong></summary>
+While the creation of tangible products with digital elements usually requires manufacturers to make substantial efforts throughout the design, development and production phases, the creation of products with digital elements in the form of software almost exclusively focuses on design and development, while the production phase plays a minor role. Nonetheless, in many cases software products still need to be compiled, built, packaged, made available for download or copied onto physical media before being placed on the market. Those activities should be considered to be activities amounting to production when applying the relevant conformity assessment modules to verify the compliance of the product with the essential cybersecurity requirements set out in this Regulation across the design, development and production phases.
 </details>
 
 <details>
-  <summary><strong>(93) ...</strong></summary>
-...
+  <summary><strong>(93) For SMEs, the Commission should create a simplified technical documentation form that still covers all required elements but lets them provide information more concisely, while leaving them free to use full documentation instead if they prefer.</strong></summary>
+In relation to microenterprises and small enterprises, in order to ensure proportionality, it is appropriate to alleviate administrative costs without affecting the level of cybersecurity protection of products with digital elements that fall within the scope of this Regulation or the level playing field among manufacturers. It is therefore appropriate for the Commission to establish a simplified technical documentation form targeted at the needs of microenterprises and small enterprises. The simplified technical documentation form adopted by the Commission should cover all the applicable elements related to technical documentation set out in this Regulation and specify how a microenterprise or a small enterprise can provide the requested elements in a concise way, such as the description of the design, development and production of the product with digital elements. In doing so, the form would contribute to alleviating the administrative compliance burden by providing the enterprises concerned with legal certainty about the extent and detail of information to be provided. Microenterprises and small enterprises should be able to choose to provide the applicable elements related to technical documentation in extensive form and not take advantage of the simplified technical form available to them.
 </details>
 
 <details>
-  <summary><strong>(94) ...</strong></summary>
-...
+  <summary><strong>(94) Member States should support smaller manufacturers (especially SMEs) with measures like training, testing and sandboxes, and may ease translation costs by accepting widely understood languages for documentation and communication.</strong></summary>
+In order to promote and protect innovation, it is important that the interests of manufacturers that are microenterprises or small or medium-sized enterprises, in particular microenterprises and small enterprises, including start-ups, are taken into particular account. To that end, Member States could develop initiatives which are targeted at manufacturers that are microenterprises or small enterprises, including on training, awareness raising, information communication, testing and third-party conformity assessment activities, as well as the establishment of sandboxes. Translation costs related to mandatory documentation, such as the technical documentation and the information and instructions to the user required pursuant to this Regulation, and communication with authorities, may constitute a significant cost for manufacturers, in particular those of a smaller size. Therefore, Member States should be able to consider that one of the languages determined and accepted by them for relevant manufacturers’ documentation and for communication with manufacturers is one which is broadly understood by the largest possible number of users.
 </details>
 
 <details>
-  <summary><strong>(95) ...</strong></summary>
-...
+  <summary><strong>(95) Member States should ensure enough notified bodies and skilled professionals before this Regulation applies, with the Commission’s support, and Union/national funding should help SMEs cover third-party conformity assessment costs.</strong></summary>
+In order to ensure a smooth application of this Regulation, Member States should strive to ensure, before the date of application of this Regulation, that a sufficient number of notified bodies is available to carry out third-party conformity assessments. The Commission should seek to assist Member States and other relevant parties in this endeavour, in order to avoid bottlenecks and hindrances to market entry for manufacturers. Targeted training activities led by Member States, including where appropriate with the support of the Commission, can contribute to the availability of skilled professionals including to support the activities of notified bodies under this Regulation. Furthermore, in light of the costs that third-party conformity assessment may entail, funding initiatives at Union and national level that seek to alleviate such costs for microenterprises and small enterprises should be considered.
 </details>
 
 <details>
-  <summary><strong>(96) ...</strong></summary>
-...
+  <summary><strong>(96) Conformity assessment bodies should set fees and choose tests in a proportionate, risk-based way that takes into account the specific needs of SMEs, including start-ups.</strong></summary>
+In order to ensure proportionality, conformity assessment bodies, when setting the fees for conformity assessment procedures, should take into account the specific interests and needs of microenterprises and small and medium-sized enterprises, including start-ups. In particular, conformity assessment bodies should apply the relevant examination procedure and tests provided for in this Regulation only where appropriate and following a risk-based approach.
 </details>
 
 <details>
-  <summary><strong>(97) ...</strong></summary>
-...
+  <summary><strong>(97) Regulatory sandboxes should offer controlled testing environments before market placement</strong> to foster innovation and speed up EU market access for digital products, especially from SMEs.</summary>
+The objectives of regulatory sandboxes should be to foster innovation and competitiveness for businesses by establishing controlled testing environments before the placing on the market of products with digital elements. Regulatory sandboxes should contribute to improve legal certainty for all actors that fall within the scope of this Regulation and facilitate and accelerate access to the Union market for products with digital elements, in particular when provided by microenterprises and small enterprises, including start-ups.
 </details>
 
 <details>
-  <summary><strong>(98) ...</strong></summary>
-...
+  <summary><strong>(98) Conformity assessment bodies should only be notified to the Commission and Member States if they meet strict requirements on independence, competence and absence of conflicts of interest.</strong></summary>
+In order to carry out third-party conformity assessment for products with digital elements, conformity assessment bodies should be notified by the national notifying authorities to the Commission and the other Member States, provided they comply with a set of requirements, in particular on independence, competence and absence of conflicts of interest.
 </details>
 
 <details>
-  <summary><strong>(99) ...</strong></summary>
-...
+  <summary><strong>(99) This Regulation should use accreditation under Regulation (EC) No 765/2008 as the main way to verify conformity assessment bodies’ competence before notification.</strong></summary>
+In order to ensure a consistent level of quality in the performance of conformity assessment of products with digital elements, it is also necessary to lay down requirements for notifying authorities and other bodies involved in the assessment, notification and monitoring of notified bodies. The system set out in this Regulation should be complemented by the accreditation system provided for in Regulation (EC) No 765/2008. Since accreditation is an essential means of verifying the competence of conformity assessment bodies, it should also be used for the purposes of notification.
 </details>
 
 <details>
-  <summary><strong>(100) ...</strong></summary>
-...
+  <summary><strong>(100) Conformity assessment bodies already notified under similar EU schemes should be reassessed and re-notified under this Regulation, but authorities should reuse overlaps to avoid unnecessary cost and delay.</strong></summary>
+Conformity assessment bodies that have been accredited and notified under Union law laying down requirements similar to those laid down in this Regulation, such as a conformity assessment body that has been notified for a European cybersecurity certification scheme adopted pursuant to Regulation (EU) 2019/881 or notified under Delegated Regulation (EU) 2022/30, should be newly assessed and notified under this Regulation. However, synergies can be defined by relevant authorities regarding any overlapping requirements in order to prevent an unnecessary financial and administrative burden and to ensure a smooth and timely notification process.
 </details>
 
 <details>
-  <summary><strong>(101) ...</strong></summary>
-...
+  <summary><strong>(101) Transparent accreditation under Regulation (EC) No 765/2008 should be the preferred way to prove a conformity assessment body’s competence, but if national authorities evaluate bodies themselves, they should share evidence with the Commission and other Member States to demonstrate compliance.</strong></summary>
+Transparent accreditation as provided for in Regulation (EC) No 765/2008, ensuring the necessary level of confidence in certificates of conformity, should be considered by the national public authorities throughout the Union to be the preferred means of demonstrating the technical competence of conformity assessment bodies. However, national authorities may consider that they possess the appropriate means of carrying out that evaluation themselves. In such cases, in order to ensure the appropriate level of credibility of evaluations carried out by other national authorities, they should provide the Commission and the other Member States with the necessary documentary evidence demonstrating the compliance of the conformity assessment bodies evaluated with the relevant regulatory requirements.
 </details>
 
 <details>
-  <summary><strong>(102) ...</strong></summary>
-...
+  <summary><strong>(102) Notified bodie's subcontract or subsidiaries should meet the same requirements as the notified body for any conformity assessment tasks they perform.</strong></summary>
+Conformity assessment bodies frequently subcontract parts of their activities linked to the assessment of conformity or have recourse to a subsidiary. In order to safeguard the level of protection required for a product with digital elements to be placed on the market, it is essential that conformity assessment subcontractors and subsidiaries fulfil the same requirements as notified bodies in relation to the performance of conformity assessment tasks.
 </details>
 
 <details>
-  <summary><strong>(103) ...</strong></summary>
-...
+  <summary><strong>(103) The notifying authority should send notifications of conformity assessment bodies via the NANDO system, which is the Commission’s database listing all notified bodies.</strong></summary>
+The notification of a conformity assessment body should be sent by the notifying authority to the Commission and the other Member States via the New Approach Notified and Designated Organisations (NANDO) information system. The NANDO information system is the electronic notification tool developed and managed by the Commission where a list of all notified bodies can be found.
 </details>
 
 <details>
-  <summary><strong>(104) ...</strong></summary>
-...
+  <summary><strong>(104) Any Member States and the Commission should have time to raise and resolve any doubts about notified bodies competence before they start operating.</strong></summary>
+Since notified bodies may offer their services throughout the Union, it is appropriate to give the other Member States and the Commission the opportunity to raise objections concerning a notified body. It is therefore important to provide for a period during which any doubts or concerns as to the competence of conformity assessment bodies can be clarified before they start operating as notified bodies.
 </details>
 
 <details>
