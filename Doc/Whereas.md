@@ -2,7 +2,7 @@
 
 The “whereas” recitals explain why the law exists and what problems and goals it addresses. They provide context and show how this Regulation fits with other EU laws. They don’t create direct obligations, but they guide how the binding articles should be interpreted in practice. They also document the legislator’s intentions and policy choices, which is crucial for authorities, courts and stakeholders when applying or revising the rules.
 
-**This version proposes summaries as "TLDR;", but you can show the original text clicking on the summaries. It also groups the recitals by themes.**
+**This version proposes summaries as "TLDR;", but you can read the original text clicking on the summaries. It also groups the recitals by themes.**
 
 - **Estimated reading time (summaries only):** ~15 minutes  
 - **Estimated reading time (full text + summaries):** ~60 minutes
