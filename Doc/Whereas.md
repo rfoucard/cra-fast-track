@@ -1,6 +1,10 @@
 Time to read :
+
 15 min (reading only the summaries)
+
 1 hour (reading summaries and original texts details)
+
+## 1. Context & objectives (recitals 1–8)
 
 <details>
   <summary><strong>(01) EU wants common rules</strong> to make digital products more secure because cyberattacks are growing and users can’t easily choose or use safe products.</summary>
@@ -41,6 +45,8 @@ At Union level, various programmatic and political documents, such as the Joint 
   <summary><strong>(08) The EU wants horizontal, technology-neutral essential cybersecurity rules</strong> to raise the cybersecurity level of all digital products on the internal market.</summary>
 To increase the overall level of cybersecurity of all products with digital elements placed on the internal market, it is necessary to introduce objective-oriented and technology-neutral essential cybersecurity requirements for those products that apply horizontally.
 </details>
+
+## 2. Scope & internal market (recitals 9–16)
 
 <details>
   <summary><strong>(09) All products with digital elements can be an attack vector.</strong> Manufacturers should ensure all products, even less critical or indirect, meet essential cybersecurity requirements.</summary>
@@ -86,6 +92,8 @@ This Regulation applies to economic operators only in relation to products with 
   <summary><strong>(16) Products charged for cost-recovery</strong> are not treated as commercial, and <strong>products implemented by public administrations only for their own use</strong> are not considered placed on the market.</summary>
 Products with digital elements provided as part of the delivery of a service for which a fee is charged solely to recover the actual costs directly related to the operation of that service, such as may be the case with certain products with digital elements provided by public administration entities, should not be considered on those grounds alone to be a commercial activity for the purposes of this Regulation. Furthermore, products with digital elements which are developed or modified by a public administration entity exclusively for its own use should not be considered to be made available on the market within the meaning of this Regulation.
 </details>
+
+## 3. Free and Open-Source Software and Stewards
 
 <details>
   <summary><strong>(17) Openly shared free and open-source software</strong> supports innovation, so when it is used commercially this Regulation should reflect its different development models and support its use, especially by SMEs, individuals, non-profits and researchers.</summary>
