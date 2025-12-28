@@ -605,33 +605,33 @@ In order to ensure effective enforcement of the obligations laid down in this Re
 </details>
 
 <details>
-  <summary><strong>(121) ...</strong></summary>
-...
+  <summary><strong>(121) For non-business persons, authorities should set fines with regard to income and economic situation</strong>, and Member States should decide if and to what extent public authorities are subject to fines.</summary>
+Where administrative fines are imposed on a person that is not an undertaking, the competent authority should take account of the general level of income in the Member State as well as the economic situation of the person when considering the appropriate amount of the fine. It should be for the Member States to determine whether and to what extent public authorities should be subject to administrative fines.
 </details>
 
 <details>
-  <summary><strong>(122) ...</strong></summary>
-...
+  <summary><strong>(122) Member States should consider using penalty revenues to fund cybersecurity policies</strong>, such as training more experts, strengthening SME capacity and raising public awareness of cyber threats</summary>
+Member States should examine, taking into account national circumstances, the possibility of using the revenues from the penalties as provided for in this Regulation or their financial equivalent to support cybersecurity policies and increase the level of cybersecurity in the Union by, inter alia, increasing the number of qualified cybersecurity professionals, strengthening capacity building for microenterprises and small and medium-sized enterprises and improving public awareness of cyber threats.
 </details>
 
 <details>
-  <summary><strong>(123) ...</strong></summary>
-...
+  <summary><strong>(123) The Union may conclude MRAs on conformity assessment for CRA-covered products with third countries</strong> to ease global trade and, through such cooperation, help strengthen cyber resilience inside and outside the EU.</strong></summary>
+In its relationships with third countries, the Union endeavours to promote international trade in regulated products. A broad variety of measures can be applied in order to facilitate trade, including several legal instruments such as bilateral (inter-governmental) Mutual Recognition Agreements (MRAs) for conformity assessment and marking of regulated products. MRAs are established between the Union and third countries which are on a comparable level of technical development and have a compatible approach concerning conformity assessment. Those agreements are based on the mutual acceptance of certificates, marks of conformity and test reports issued by the conformity assessment bodies of either party in conformity with the legislation of the other party. Currently, MRAs are in place with several third countries. Those MRAs are concluded in a number of specific sectors, which might vary from one third country to another. In order to further facilitate trade, and recognising that supply chains of products with digital elements are global, MRAs concerning conformity assessment can be concluded for products regulated under this Regulation by the Union in accordance with Article 218 TFEU. Cooperation with partner third countries is also important, in order to strengthen cyber resilience globally, as in the long term this will contribute to a strengthened cybersecurity framework both within and outside of the Union.
 </details>
 
 <details>
-  <summary><strong>(124) ...</strong></summary>
-...
+  <summary><strong>(124) From 11 December 2027, consumers should be able to enforce their rights under this Regulation</strong> through representative actions under Directive (EU) 2020/1828.</summary>
+Consumers should be entitled to enforce their rights in relation to the obligations imposed on economic operators under this Regulation through representative actions pursuant to Directive (EU) 2020/1828 of the European Parliament and of the Council (33). For that purpose, this Regulation should provide that Directive (EU) 2020/1828 is applicable to the representative actions concerning infringements of this Regulation that harm or can harm the collective interests of consumers. Annex I to that Directive should therefore be amended accordingly. It is for the Member States to ensure that those amendments are reflected in the transposition measures adopted pursuant to that Directive, although the adoption of national transposition measures in that regard is not a condition for the applicability of that Directive to those representative actions. The applicability of that Directive to the representative actions brought with regard to infringements of provisions of this Regulation by economic operators that harm or could harm the collective interests of consumers should start from 11 December 2027.
 </details>
 
 <details>
-  <summary><strong>(125) ...</strong></summary>
-...
+  <summary><strong>(125) The Commission should regularly review this Regulation with stakeholders</strong>, adjust it if conditions change, and assess how it works together with the wider EU cybersecurity framework and supply chain security rules.</summary>
+The Commission should periodically evaluate and review this Regulation, in consultation with relevant stakeholders, in particular with a view to determining the need for modification in the light of changes to societal, political, technological or market conditions. This Regulation will facilitate the compliance with supply chain security obligations of entities that fall within the scope of Regulation (EU) 2022/2554 and Directive (EU) 2022/2555 that use products with digital elements. The Commission should evaluate, as part of that periodic review, the combined effects of the Union cybersecurity framework.
 </details>
 
 <details>
-  <summary><strong>(126) ...</strong></summary>
-...
+  <summary><strong>(126) Economic operators should have time to adapt, with this Regulation applying from 11 December 2027, except for reporting duties (from 11 September 2026) and notification of conformity assessment bodies (from 11 June 2026).</strong></summary>
+Economic operators should be provided with sufficient time to adapt to the requirements set out in this Regulation. This Regulation should apply from 11 December 2027, with exception of the reporting obligations concerning actively exploited vulnerabilities and severe incidents having an impact on the security of products with digital elements, which should apply from 11 September 2026 and of the provisions on notification of conformity assessment bodies, which should apply from 11 June 2026.
 </details>
 
 <details>
