@@ -635,22 +635,22 @@ Economic operators should be provided with sufficient time to adapt to the requi
 </details>
 
 <details>
-  <summary><strong>(127) ...</strong></summary>
-...
+  <summary><strong>(127) EU programmes and structures (like Digital Europe, the Cybersecurity Competence Centre and Digital Innovation Hubs) should support SMEs and start-ups</strong> with expertise, testing, tools and funding to help them comply with this Regulation and strengthen cybersecurity in the Union.</summary>
+It is important to provide support to microenterprises and small and medium-sized enterprises, including start-ups, in the implementation of this Regulation and to minimise the risks to the implementation resulting from lack of knowledge and expertise in the market, as well as in order to facilitate compliance of manufacturers with their obligations laid down in this Regulation. The Digital Europe Programme and other relevant Union programmes provide financial and technical support that enable those enterprises to contribute to the growth of the Union economy and to the strengthening of the common level of cybersecurity in the Union. The European Cybersecurity Competence Centre and National Coordination Centres as well as European Digital Innovation Hubs established by the Commission and the Member States at Union or national level could also support companies and public sector organisations and could contribute to the implementation of this Regulation. Within their respective missions and fields of competence, they could provide technical and scientific support to microenterprises and small and medium sized enterprises, such as for testing activities and third-party conformity assessments. They could also foster the deployment of tools to facilitate the implementation of this Regulation.
 </details>
 
 <details>
-  <summary><strong>(128) ...</strong></summary>
-...
+  <summary><strong>(128) Member States should consider offering guidance and support</strong> (like sandboxes and dedicated contact channels), building cybersecurity skills and capacity, and raising public awareness to improve the cyber resilience of economic operators, especially SMEs.</summary>
+Furthermore, Member States should consider taking complementary action aiming to provide guidance and support for microenterprises and small and medium-sized enterprises, such as the establishment of regulatory sandboxes and dedicated channels for communication. In order to strengthen the level of cybersecurity in the Union, Member States may also consider providing support to develop capacity and skills related to cybersecurity of products with digital elements, improving the cyber resilience of economic operators, in particular of microenterprises and small and medium-sized enterprises, and fostering public awareness about the cybersecurity of products with digital elements.
 </details>
 
 <details>
-  <summary><strong>(129) ...</strong></summary>
-...
+  <summary><strong>(129) This Regulation is adopted at EU level</strong> because that is more effective than national action alone, and it is limited to what is necessary to reach its objectives (subsidiarity and proportionality).</summary>
+Since the objective of this Regulation cannot be sufficiently achieved by the Member States but can rather, by reason of the effects of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.
 </details>
 
 <details>
-  <summary><strong>(130) ...</strong></summary>
-...
+  <summary><strong>(130) The European Data Protection Supervisor was consulted</strong> and gave its opinion on 9 November 2022.</summary>
+The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council (34) and delivered an opinion on 9 November 2022 (35),
 </details>
 
