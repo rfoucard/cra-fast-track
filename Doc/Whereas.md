@@ -234,72 +234,72 @@ The categories of critical products with digital elements set out in this Regula
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(47) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(48) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(49) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(50) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(51) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(52) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(53) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(54) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(55) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(56) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(57) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(58) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(59) ...</strong></summary>
 ...
 </details>
 
 <details>
-  <summary><strong>(00) ...</strong></summary>
+  <summary><strong>(60) ...</strong></summary>
 ...
 </details>
 
