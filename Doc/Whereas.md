@@ -204,17 +204,18 @@ Taking into account the iterative nature of software development, manufacturers 
 </details>
 
 <details>
-  <summary><strong>(41) When a substantial modification or change of intended purpose may affect a product’s compliance, its conformity should be re-checked (including a new third-party assessment where relevant, with any such changes notified to that third party).</strong></summary>
-...
+  <summary><strong>(41) When a substantial modification or change of intended purpose may affect a product’s compliance, its conformity should be re-checked</strong> (including a new third-party assessment where relevant, with any such changes notified to that third party).</summary>
+In line with the commonly established concept of substantial modification for products regulated by Union harmonisation legislation, where a substantial modification occurs that may affect the compliance of a product with digital elements with this Regulation or when the intended purpose of that product changes, it is appropriate that the compliance of the product with digital elements is verified and that, where applicable, it undergoes a new conformity assessment. Where applicable, if the manufacturer undertakes a conformity assessment involving a third party, a change that might lead to a substantial modification should be notified to the third party.
+
 </details>
 
 <details>
-  <summary><strong>(42) Refurbishment, maintenance or repair do not usually count as substantial modifications if purpose, functions and risk stay the same, but an upgrade that changes design or purpose can affect compliance and becomes substantial.</strong></summary>
+  <summary><strong>(42) Refurbishment, maintenance or repair do not usually count as substantial modifications</strong> if purpose, functions and risk stay the same, but an upgrade that changes design or purpose can affect compliance and becomes substantial.</summary>
 Where a product with digital elements is subject to ‘refurbishment’, ‘maintenance’ and ‘repair’ as defined in Article 2, points (18), (19) and (20), of Regulation (EU) 2024/1781 of the European Parliament and of the Council (19), this does not necessarily lead to a substantial modification of the product, for instance if the intended purpose and functionalities are not changed and the level of risk remains unaffected. However, an upgrade of a product with digital elements by the manufacturer might lead to changes in the design and development of that product and might therefore affect its intended purpose and compliance with the requirements set out in this Regulation.
 </details>
 
 <details>
-  <summary><strong>(43) Products with digital elements are “important” when exploiting their vulnerabilities could severely harm many other products or users, especially when they have cybersecurity functions or central system roles like network management or personal data processing.</strong></summary>
+  <summary><strong>(43) Products with digital elements are “important” when exploiting their vulnerabilities could severely harm many other products or users</strong>, especially when they have cybersecurity functions or central system roles like network management or personal data processing.</summary>
 Products with digital elements should be considered to be important if the negative impact of the exploitation of potential vulnerabilities in the product can be severe due to, inter alia, the cybersecurity-related functionality or a function carrying a significant risk of adverse effects in terms of its intensity and ability to disrupt, control or cause damage to a large number of other products with digital elements or to the health, security or safety of its users through direct manipulation, such as a central system function, including network management, configuration control, virtualisation or processing of personal data. In particular, vulnerabilities in products with digital elements that have a cybersecurity-related functionality, such as boot managers, can lead to a propagation of security issues throughout the supply chain. The severity of the impact of an incident may also increase where the product primarily performs a central system function, including network management, configuration control, virtualisation or processing of personal data.
 </details>
 
