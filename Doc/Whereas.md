@@ -344,8 +344,8 @@ Actively exploited vulnerabilities concern instances where a manufacturer establ
 </details>
 
 <details>
-  <summary><strong>(69) ...</strong></summary>
-...
+  <summary><strong>(69) ENISA will run a secure single reporting platform</strong so manufacturers can file one confidential notification on vulnerabilities or severe incidents, which CSIRTs pass to market surveillance authorities, and ENISA will use this data to publish a biennial report on emerging cybersecurity risks in digital products.></summary>
+To ensure that notifications can be disseminated quickly to all relevant CSIRTs designated as coordinators and to enable manufacturers to submit a single notification at each stage of the notification process, a single reporting platform with national electronic notification end-points should be established by ENISA. The day-to-day operations of the single reporting platform should be managed and maintained by ENISA. The CSIRTs designated as coordinators should inform their respective market surveillance authorities about notified vulnerabilities or incidents. The single reporting platform should be designed in such a way that it ensures the confidentiality of notifications, in particular as regards vulnerabilities for which a security update is not yet available. In addition, ENISA should put in place procedures to handle information in a secure and confidential manner. On the basis of the information it gathers, ENISA should prepare a biennial technical report on emerging trends regarding cybersecurity risks in products with digital elements and submit it to the Cooperation Group established pursuant to Article 14 of Directive (EU) 2022/2555.
 </details>
 
 <details>
