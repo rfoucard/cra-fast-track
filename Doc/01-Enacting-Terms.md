@@ -10,7 +10,7 @@
 <details>
   <summary><strong>Article 1 - Subject matter</strong> This Regulation sets cybersecurity rules and duties for placing digital products on the EU market, handling their vulnerabilities, and supervising compliance.</summary>
 
-
+<hr/>
 This Regulation lays down:
 
 <ol type="a">
