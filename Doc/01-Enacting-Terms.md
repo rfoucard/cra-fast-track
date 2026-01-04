@@ -24,9 +24,6 @@ This Regulation lays down:
 <details>
   <summary><strong>Article 2 - Scope</strong> This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to refine scope via delegated acts.</summary>
 
-<p><strong>One very short sentence (EN):</strong><br>
-This Regulation applies to connected digital products placed on the market, with key exclusions (certain sector-regulated/certified products, spare parts, and security/defence) and a power for the Commission to refine scope via delegated acts.</p>
-
 <ol>
   <li>
     This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network.
