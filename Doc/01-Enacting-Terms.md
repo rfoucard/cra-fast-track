@@ -1095,7 +1095,7 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>Article 32 - Conformity assessment procedures for products with digital elements</strong> Manufacturers must assess CRA conformity using <ins title="Internal production control: the manufacturer self-assesses and ensures compliance"> Module A ⓘ </ins>, B+C, or H (or EU cybersecurity certification), with stricter routes for Annex III class I/II important products and Annex IV critical products, a public-doc option for open-source in Annex III, and reduced fees for SMEs. </summary>
+  <summary><strong>Article 32 - Conformity assessment procedures for products with digital elements</strong> Manufacturers must assess CRA conformity using <ins title="Internal production control: the manufacturer self-assesses and ensures compliance">Module A</ins>, <ins title="EU-type examination: a notified body checks and certifies the technical design">B</ins> + <ins title="mass production conformity to the type approved under Module B">C</ins>, or <ins title="Full quality assurance with notified body involvement">H</ins> (or EU cybersecurity certification), with stricter routes for Annex III class I/II important products and Annex IV critical products, a public-doc option for open-source in Annex III, and reduced fees for SMEs. </summary>
   <br/>
   <ol>
   <li>
