@@ -159,7 +159,7 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>Procurement or use of products with digital elements</strong> Member States may add extra cybersecurity rules for specific procurement or use (including defence) if lawful and proportionate, and must consider Annex I (essental cybersecurity requirements) compliance and how manufacturers handle vulnerabilities when buying such products. </summary>
+  <summary><strong>Article 5 - Procurement or use of products with digital elements</strong> Member States may add extra cybersecurity rules for specific procurement or use (including defence) if lawful and proportionate, and must consider Annex I (essental cybersecurity requirements) compliance and how manufacturers handle vulnerabilities when buying such products. </summary>
   <br/>
   <ol>
   <li>
