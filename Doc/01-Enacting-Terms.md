@@ -136,8 +136,25 @@
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 4 - Free movement</strong> Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.</summary>
   <br/>
+  <p><strong>Short one-sentence summary (EN):</strong><br>
+Member States must allow compliant products on the market, while permitting non-compliant prototypes and limited-time test software under clear “not compliant” signage, except for certain safety components.</p>
+
+<ol>
+  <li>
+    Member States shall not impede, for the matters covered by this Regulation, the making available on the market of products with digital elements which comply with this Regulation.
+  </li>
+  <li>
+    At trade fairs, exhibitions, demonstrations or similar events, Member States shall not prevent the presentation or use of a product with digital elements which does not comply with this Regulation, including its prototypes, provided that the product is presented with a visible sign clearly indicating that it does not comply with this Regulation and that it is not to be made available on the market until it does so.
+  </li>
+  <li>
+    Member States shall not prevent the making available on the market of unfinished software which does not comply with this Regulation, provided that the software is made available only for a limited period required for testing purposes with a visible sign clearly indicating that it does not comply with this Regulation and that it will not be available on the market for purposes other than testing.
+  </li>
+  <li>
+    Paragraph 3 does not apply to safety components as referred to in Union harmonisation legislation other than this Regulation.
+  </li>
+  </ol>
 </details>
 
 
