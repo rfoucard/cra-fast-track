@@ -174,8 +174,16 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 6 - Requirements for products with digital elements</strong> Products with digital elements must be placed on the market only if they meet Annex I Part I requirements and the manufacturer’s processes meet Annex I Part II requirements.</summary>
   <br/>
+  <ol type="a">
+      <li>
+        they meet the essential cybersecurity requirements set out in Part I of Annex I, provided that they are properly installed, maintained, used for their intended purpose or under conditions which can reasonably be foreseen, and, where applicable, the necessary security updates have been installed; and
+      </li>
+      <li>
+        the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Part II of Annex I.
+      </li>
+    </ol>
 </details>
 
 
