@@ -339,6 +339,7 @@ Member States must allow compliant products on the market, while permitting non-
   </li>
   </ol>
 </details>
+
 ## Chapter II - Obligations of Economic Operators and Provisions in Relation to Free and Open-source Software
 
 <br/>
