@@ -595,15 +595,12 @@ Member States must allow compliant products on the market, while permitting non-
 
   <li>
     After receiving a notification, the CSIRT designated as coordinator initially receiving the notification shall, without delay, disseminate the notification via the single reporting platform to the CSIRTs designated as coordinators on the territory of which the manufacturer has indicated that the product with digital elements has been made available.
-    <p>
+    <br/>
       In exceptional circumstances and, in particular, upon request by the manufacturer and in light of the level of sensitivity of the notified information as indicated by the manufacturer under Article 14(2), point (a), of this Regulation, the dissemination of the notification may be delayed based on justified cybersecurity-related grounds for a period of time that is strictly necessary, including where a vulnerability is subject to a coordinated vulnerability disclosure procedure as referred to in Article 12(1) of Directive (EU) 2022/2555.
       Where a CSIRT decides to withhold a notification, it shall immediately inform ENISA about the decision and provide both a justification for withholding the notification as well as an indication of when it will disseminate the notification in accordance with the dissemination procedure laid down in this paragraph.
       ENISA may support the CSIRT on the application of cybersecurity-related grounds in relation to delaying the dissemination of the notification.
-    </p>
-
-    <p>
+    <br/>
       In particularly exceptional circumstances, where the manufacturer indicates in the notification referred to in Article 14(2), point (b):
-    </p>
     <ol type="a">
       <li>
         that the notified vulnerability has been actively exploited by a malicious actor and, according to the information available, it has been exploited in no other Member State than the one of the CSIRT designated as coordinator to which the manufacturer has notified the vulnerability;
@@ -616,10 +613,8 @@ Member States must allow compliant products on the market, while permitting non-
       </li>
     </ol>
 
-    <p>
       only the information that a notification was made by the manufacturer, the general information about the product, the information on the general nature of the exploit and the information that security related grounds were raised are to be made available simultaneously to ENISA until the full notification is disseminated to the CSIRTs concerned and ENISA.
       Where, based on that information, ENISA considers that there is a systemic risk affecting security in the internal market, it shall recommend to the recipient CSIRT that it disseminate the full notification to the other CSIRTs designated as coordinators and to ENISA itself.
-    </p>
   </li>
 
   <li>
