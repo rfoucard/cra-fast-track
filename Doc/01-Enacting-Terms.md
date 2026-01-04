@@ -877,15 +877,37 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 25 - Security attestation of free and open-source software</strong> The Commission may create voluntary security attestation programmes (via delegated acts) to help manufacturers—especially those using open-source components—assess whether open-source products meet some or all CRA cybersecurity requirements. </summary>
   <br/>
+      In order to facilitate the due diligence obligation set out in Article 13(5), in particular as regards manufacturers that integrate free and open-source software components in their products with digital elements, the Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by establishing voluntary security attestation programmes allowing the developers or users of products with digital elements qualifying as free and open-source software as well as other third parties to assess the conformity of such products with all or certain essential cybersecurity requirements or other obligations laid down in this Regulation.
+
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 26 - Guidance</strong> The Commission must publish stakeholder-informed guidance (especially for SMEs) on CRA scope, support periods, overlaps with other EU laws, and “substantial modification”, and must keep an easy-to-access list of CRA delegated and implementing acts. </summary>
   <br/>
+  <ol>
+  <li>
+    In order to facilitate implementation and ensure the consistency of such implementation, the Commission shall publish guidance to assist economic operators in applying this Regulation, with a particular focus on facilitating compliance by microenterprises and small and medium-sized enterprises.
+  </li>
+
+  <li>
+    Where it intends to provide guidance as referred to in paragraph 1, the Commission shall address at least the following aspects:
+    <ol type="a">
+      <li>the scope of this Regulation, with a particular focus on remote data processing solutions and free and open-source software;</li>
+      <li>the application of support periods in relation to particular categories of products with digital elements;</li>
+      <li>guidance targeted at manufacturers subject to this Regulation that are also subject to Union harmonisation legislation other than this Regulation or to other related Union legal acts;</li>
+      <li>the concept of substantial modification.</li>
+    </ol>
+    <p>The Commission shall also maintain an easy-to-access list of the delegated and implementing acts adopted pursuant to this Regulation.</p>
+  </li>
+
+  <li>
+    When preparing the guidance pursuant to this Article, the Commission shall consult relevant stakeholders.
+  </li>
+</ol>
 </details>
 
 
