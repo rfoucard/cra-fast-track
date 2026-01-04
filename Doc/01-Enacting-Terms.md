@@ -159,8 +159,16 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Procurement or use of products with digital elements</strong> Member States may add extra cybersecurity rules for specific procurement or use (including defence) if lawful and proportionate, and must consider Annex I (essental cybersecurity requirements) compliance and how manufacturers handle vulnerabilities when buying such products. </summary>
   <br/>
+  <ol>
+  <li>
+    This Regulation shall not prevent Member States from subjecting products with digital elements to additional cybersecurity requirements for the procurement or use of those products for specific purposes, including where those products are procured or used for national security or defence purposes, provided that such requirements are consistent with Member States’ obligations laid down in Union law and that they are necessary and proportionate for the achievement of those purposes.
+  </li>
+  <li>
+    Without prejudice to Directives 2014/24/EU and 2014/25/EU, where products with digital elements that fall within the scope of this Regulation are procured, Member States shall ensure that compliance with the essential cybersecurity requirements set out in Annex I to this Regulation, including the manufacturers’ ability to handle vulnerabilities effectively, are taken into consideration in the procurement process.
+  </li>
+  </ol>
 </details>
 
 
