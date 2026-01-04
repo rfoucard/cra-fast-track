@@ -5,7 +5,7 @@
 - **Estimated reading time (summaries only):** ~XX minutes  
 - **Estimated reading time (full text + summaries):** ~XX minutes
 
-## 1. Chapter I - General Provisions
+## Chapter I - General Provisions
 
 <details>
   <summary><strong>Article 1 - Subject matter</strong> This Regulation sets cybersecurity rules and duties for placing digital products on the EU market, handling their vulnerabilities, and supervising compliance.</summary>
@@ -339,7 +339,7 @@ Member States must allow compliant products on the market, while permitting non-
   </li>
   </ol>
 </details>
-
+## Chapter II - Obligations of Economic Operators and Provisions in Relation to Free and Open-source Software
 
 <br/>
 <details>
