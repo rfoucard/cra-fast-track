@@ -190,7 +190,7 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>Article 7 - Important products with digital elements</strong> The Commission may mandate EU cybersecurity certification for Annex IV products, update Annex IV, and must usually allow a 6-month transition, after impact checks and stakeholder consultation.</summary>
+  <summary><strong>Article 7 - Important products with digital elements</strong> Annex III “important” products must follow Article 32 assessments; the Commission may update the list (usually with 12 months’ notice) and must publish technical descriptions by 11 December 2025.</summary>
   <br/>
   <ol>
   <li>
