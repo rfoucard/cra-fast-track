@@ -454,9 +454,104 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 14 - Reporting obligations of manufacturers</strong> Manufacturers must report actively exploited vulnerabilities and severe security incidents via the single platform to the CSIRT coordinator and ENISA within set deadlines (24h/72h plus final reports), inform users, and follow EU rules on which CSIRT to notify and how notifications may be formatted or delayed.</summary>
   <br/>
+  <ol>
+  <li>
+    A manufacturer shall notify any actively exploited vulnerability contained in the product with digital elements that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this Article, and to ENISA. The manufacturer shall notify that actively exploited vulnerability via the single reporting platform established pursuant to Article 16.
+  </li>
+
+  <li>
+    For the purposes of the notification referred to in paragraph 1, the manufacturer shall submit:
+    <ol type="a">
+      <li>
+        an early warning notification of an actively exploited vulnerability, without undue delay and in any event within 24 hours of the manufacturer becoming aware of it, indicating, where applicable, the Member States on the territory of which the manufacturer is aware that their product with digital elements has been made available;
+      </li>
+      <li>
+        unless the relevant information has already been provided, a vulnerability notification, without undue delay and in any event within 72 hours of the manufacturer becoming aware of the actively exploited vulnerability, which shall provide general information, as available, about the product with digital elements concerned, the general nature of the exploit and of the vulnerability concerned as well as any corrective or mitigating measures taken, and corrective or mitigating measures that users can take, and which shall also indicate, where applicable, how sensitive the manufacturer considers the notified information to be;
+      </li>
+      <li>
+        unless the relevant information has already been provided, a final report, no later than 14 days after a corrective or mitigating measure is available, including at least the following:
+        <ol type="i">
+          <li>a description of the vulnerability, including its severity and impact;</li>
+          <li>where available, information concerning any malicious actor that has exploited or that is exploiting the vulnerability;</li>
+          <li>details about the security update or other corrective measures that have been made available to remedy the vulnerability.</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+
+  <li>
+    A manufacturer shall notify any severe incident having an impact on the security of the product with digital elements that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this Article, and to ENISA. The manufacturer shall notify that incident via the single reporting platform established pursuant to Article 16.
+  </li>
+
+  <li>
+    For the purposes of the notification referred to in paragraph 3, the manufacturer shall submit:
+    <ol type="a">
+      <li>
+        an early warning notification of a severe incident having an impact on the security of the product with digital elements, without undue delay and in any event within 24 hours of the manufacturer becoming aware of it, including at least whether the incident is suspected of being caused by unlawful or malicious acts, which shall also indicate, where applicable, the Member States on the territory of which the manufacturer is aware that their product with digital elements has been made available;
+      </li>
+      <li>
+        unless the relevant information has already been provided, an incident notification, without undue delay and in any event within 72 hours of the manufacturer becoming aware of the incident, which shall provide general information, where available, about the nature of the incident, an initial assessment of the incident, as well as any corrective or mitigating measures taken, and corrective or mitigating measures that users can take, and which shall also indicate, where applicable, how sensitive the manufacturer considers the notified information to be;
+      </li>
+      <li>
+        unless the relevant information has already been provided, a final report, within one month after the submission of the incident notification under point (b), including at least the following:
+        <ol type="i">
+          <li>a detailed description of the incident, including its severity and impact;</li>
+          <li>the type of threat or root cause that is likely to have triggered the incident;</li>
+          <li>applied and ongoing mitigation measures.</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+
+  <li>
+    For the purposes of paragraph 3, an incident having an impact on the security of the product with digital elements shall be considered to be severe where:
+    <ol type="a">
+      <li>
+        it negatively affects or is capable of negatively affecting the ability of a product with digital elements to protect the availability, authenticity, integrity or confidentiality of sensitive or important data or functions; or
+      </li>
+      <li>
+        it has led or is capable of leading to the introduction or execution of malicious code in a product with digital elements or in the network and information systems of a user of the product with digital elements.
+      </li>
+    </ol>
+  </li>
+
+  <li>
+    Where necessary, the CSIRT designated as coordinator initially receiving the notification may request manufacturers to provide an intermediate report on relevant status updates about the actively exploited vulnerability or severe incident having an impact on the security of the product with digital elements.
+  </li>
+
+  <li>
+    The notifications referred to in paragraphs 1 and 3 of this Article shall be submitted via the single reporting platform referred to in Article 16 using one of the electronic notification end-points referred to in Article 16(1). The notification shall be submitted using the electronic notification end-point of the CSIRT designated as coordinator of the Member State where the manufacturers have their main establishment in the Union and shall be simultaneously accessible to ENISA.
+    <p>For the purposes of this Regulation, a manufacturer shall be considered to have its main establishment in the Union in the Member State where the decisions related to the cybersecurity of its products with digital elements are predominantly taken. If such a Member State cannot be determined, the main establishment shall be considered to be in the Member State where the manufacturer concerned has the establishment with the highest number of employees in the Union.</p>
+    <p>Where a manufacturer has no main establishment in the Union, it shall submit the notifications referred to in paragraphs 1 and 3 using the electronic notification end-point of the CSIRT designated as coordinator in the Member State determined pursuant to the following order and based on the information available to the manufacturer:</p>
+    <ol type="a">
+      <li>the Member State in which the authorised representative acting on behalf of the manufacturer for the highest number of products with digital elements of that manufacturer is established;</li>
+      <li>the Member State in which the importer placing on the market the highest number of products with digital elements of that manufacturer is established;</li>
+      <li>the Member State in which the distributor making available on the market the highest number of products with digital elements of that manufacturer is established;</li>
+      <li>the Member State in which the highest number of users of products with digital elements of that manufacturer are located.</li>
+    </ol>
+    <p>In relation to the third subparagraph, point (d), a manufacturer may submit notifications related to any subsequent actively exploited vulnerability or severe incident having an impact on the security of the product with digital elements to the same CSIRT designated as coordinator to which it first reported.</p>
+  </li>
+
+  <li>
+    After becoming aware of an actively exploited vulnerability or a severe incident having an impact on the security of the product with digital elements, the manufacturer shall inform the impacted users of the product with digital elements, and where appropriate all users, of that vulnerability or incident and, where necessary, of any risk mitigation and corrective measures that the users can deploy to mitigate the impact of that vulnerability or incident, where appropriate in a structured, machine-readable format that is easily automatically processable.
+    Where the manufacturer fails to inform the users of the product with digital elements in a timely manner, the notified CSIRTs designated as coordinators may provide such information to the users when considered to be proportionate and necessary for preventing or mitigating the impact of that vulnerability or incident.
+  </li>
+
+  <li>
+    By 11 December 2025, the Commission shall adopt delegated acts in accordance with Article 61 of this Regulation to supplement this Regulation by specifying the terms and conditions for applying the cybersecurity-related grounds in relation to delaying the dissemination of notifications as referred to in Article 16(2) of this Regulation. The Commission shall cooperate with the CSIRTs network established pursuant to Article 15 of Directive (EU) 2022/2555 and ENISA in preparing the draft delegated acts.
+  </li>
+
+  <li>
+    The Commission may, by means of implementing acts, specify further the format and procedures of the notifications referred to in this Article as well as in Articles 15 and 16. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2). The Commission shall cooperate with the CSIRTs network and ENISA in preparing those draft implementing acts.
+  </li>
+  </ol>
 </details>
+
+
+
+
 <br/>
 <details>
   <summary><strong>  </strong>  </summary>
