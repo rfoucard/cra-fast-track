@@ -1147,13 +1147,14 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 34 - Mutual recognition agreements</strong> The EU may sign mutual recognition agreements with third countries to support trade. </summary>
   <br/>
+Taking into account the level of technical development and the approach on conformity assessment of a third country, the Union may conclude Mutual Recognition Agreements with third countries, in accordance with Article 218 TFEU, in order to promote and facilitate international trade.
+
 </details>
 
+## Chapter IV - Notification of Conformity Assessment Bodies
 
-
-<br/>
 <details>
   <summary><strong>  </strong>  </summary>
   <br/>
