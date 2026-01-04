@@ -347,7 +347,7 @@ Member States must allow compliant products on the market, while permitting non-
   <summary><strong>Article 13 - Obligations of manufacturers</strong> Manufacturers must design secure products, document and update cybersecurity risk assessments, manage vulnerabilities and supply-chain components (incl. OSS), provide conformity/CE documentation and user information (incl. a human-usable contact point), ensure support for at least 5 years with security updates available for at least 10 years, and take corrective actions and cooperate with authorities when non-compliance is found.</summary>
   <br/>
   <ol>
-  <li>When placing a product with digital elements on the market, manufacturers shall ensure that it has been designed, developed and produced in accordance with the essential cybersecurity requirements set out in Part I of Annex I.</li>
+  <li>When placing a product with digital elements on the market, manufacturers shall ensure that it has been designed, developed and produced **in accordance with the essential cybersecurity requirements** set out in Part I of Annex I.</li>
 
   <li>For the purpose of complying with paragraph 1, manufacturers shall undertake an assessment of the cybersecurity risks associated with a product with digital elements and take the outcome of that assessment into account during the planning, design, development, production, delivery and maintenance phases of the product with digital elements with a view to minimising cybersecurity risks, preventing incidents and minimising their impact, including in relation to the health and safety of users.</li>
 
