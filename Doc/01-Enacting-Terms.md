@@ -707,9 +707,61 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 19 - Obligations of importers</strong> Importers must place only compliant, CE-marked products on the EU market, verify the manufacturer’s conformity/technical documentation and user info, add their own contact details, keep the DoC/enable access to the technical file for 10+ years, and take corrective action and notify manufacturers/authorities when risks, vulnerabilities, or non-compliance arise.</summary>
   <br/>
+  <ol>
+  <li>
+    Importers shall place on the market only products with digital elements that comply with the essential cybersecurity requirements set out in Part I of Annex I and where the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Part II of Annex I.
+  </li>
+
+  <li>
+    Before placing a product with digital elements on the market, importers shall ensure that:
+    <ol type="a">
+      <li>the appropriate conformity assessment procedures as referred to in Article 32 have been carried out by the manufacturer;</li>
+      <li>the manufacturer has drawn up the technical documentation;</li>
+      <li>the product with digital elements bears the CE marking referred to in Article 30 and is accompanied by the EU declaration of conformity referred to in Article 13(20) and the information and instructions to the user as set out in Annex II in a language which can be easily understood by users and market surveillance authorities;</li>
+      <li>the manufacturer has complied with the requirements set out in Article 13(15), (16) and (19).</li>
+    </ol>
+    <br/>For the purposes of this paragraph, importers shall be able to provide the necessary documents proving the fulfilment of the requirements set out in this Article.
+  </li>
+
+  <li>
+    Where an importer considers or has reason to believe that a product with digital elements or the processes put in place by the manufacturer are not in conformity with this Regulation, the importer shall not place the product on the market until that product or the processes put in place by the manufacturer have been brought into conformity with this Regulation.
+    Furthermore, where the product with digital elements presents a significant cybersecurity risk, the importer shall inform the manufacturer and the market surveillance authorities to that effect.
+    <br/>
+      Where an importer has reason to believe that a product with digital elements may present a significant cybersecurity risk in light of non-technical risk factors, the importer shall inform the market surveillance authorities to that effect.
+      Upon receipt of such information, the market surveillance authorities shall follow the procedures referred to in Article 54(2).
+  </li>
+
+  <li>
+    Importers shall indicate their name, registered trade name or registered trademark, the postal address, email address or other digital contact as well as, where applicable, the website at which they can be contacted on the product with digital elements or on its packaging or in a document accompanying the product with digital elements.
+    The contact details shall be in a language easily understood by users and market surveillance authorities.
+  </li>
+
+  <li>
+    Importers who know or have reason to believe that a product with digital elements which they have placed on the market is not in conformity with this Regulation shall immediately take the corrective measures necessary to ensure that the product with digital elements is brought into conformity with this Regulation, or to withdraw or recall the product, if appropriate.
+    <br/>
+      Upon becoming aware of a vulnerability in the product with digital elements, importers shall inform the manufacturer without undue delay about that vulnerability.
+      Furthermore, where the product with digital elements presents a significant cybersecurity risk, importers shall immediately inform the market surveillance authorities of the Member States in which they have made the product with digital elements available on the market to that effect, giving details, in particular, of non-compliance and of any corrective measures taken.
+  </li>
+
+  <li>
+    Importers shall, for at least 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation can be made available to those authorities, upon request.
+  </li>
+
+  <li>
+    Importers shall, further to a reasoned request from a market surveillance authority, provide it with all the information and documentation, in paper or electronic form, necessary to demonstrate the conformity of the product with digital elements with the essential cybersecurity requirements set out in Part I of Annex I as well as of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Part II of Annex I in a language that can be easily understood by that authority.
+    They shall cooperate with that authority, at its request, on any measures taken to eliminate the cybersecurity risks posed by a product with digital elements, which they have placed on the market.
+  </li>
+
+  <li>
+    Where the importer of a product with digital elements becomes aware that the manufacturer of that product has ceased its operations and, as result, is not able to comply with the obligations laid down in this Regulation, the importer shall inform the relevant market surveillance authorities about this situation, as well as, by any means available and to the extent possible, the users of the products with digital elements placed on the market.
+  </li>
+</ol>
 </details>
+
+
+
 <br/>
 <details>
   <summary><strong>  </strong>  </summary>
