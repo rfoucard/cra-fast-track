@@ -554,8 +554,31 @@ Member States must allow compliant products on the market, while permitting non-
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 15 - Voluntary reporting</strong> Anyone (including manufacturers) may voluntarily report vulnerabilities, threats, incidents, and near misses to the CSIRT coordinator or ENISA; reports are processed via Article 16, manufacturers are informed if others report severe cases, and confidentiality and “no extra duties” protections apply.</summary>
   <br/>
+  <ol>
+  <li>
+    Manufacturers as well as other natural or legal persons may notify any vulnerability contained in a product with digital elements as well as cyber threats that could affect the risk profile of a product with digital elements on a voluntary basis to a CSIRT designated as coordinator or ENISA.
+  </li>
+
+  <li>
+    Manufacturers as well as other natural or legal persons may notify any incident having an impact on the security of the product with digital elements as well as near misses that could have resulted in such an incident on a voluntary basis to a CSIRT designated as coordinator or ENISA.
+  </li>
+
+  <li>
+    The CSIRT designated as coordinator or ENISA shall process the notifications referred to in paragraphs 1 and 2 of this Article in accordance with the procedure laid down in Article 16.
+    <p>The CSIRT designated as coordinator may prioritise the processing of mandatory notifications over voluntary notifications.</p>
+  </li>
+
+  <li>
+    Where a natural or legal person other than the manufacturer notifies an actively exploited vulnerability or a severe incident having an impact on the security of a product with digital elements in accordance with paragraph 1 or 2, the CSIRT designated as coordinator shall without undue delay inform the manufacturer.
+  </li>
+
+  <li>
+    The CSIRTs designated as coordinators as well as ENISA shall ensure the confidentiality and appropriate protection of the information provided by a notifying natural or legal person.
+    Without prejudice to the prevention, investigation, detection and prosecution of criminal offences, voluntary reporting shall not result in the imposition of any additional obligations upon a notifying natural or legal person to which it would not have been subject had it not submitted the notification.
+  </li>
+  </ol>
 </details>
 
 
