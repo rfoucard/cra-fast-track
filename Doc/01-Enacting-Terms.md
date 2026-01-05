@@ -1410,60 +1410,150 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 44 - Identification numbers and lists of notified bodies</strong> The Commission assigns each notified body a single ID number (even across multiple EU laws) and publishes and updates a public list of notified bodies, their IDs, and their notified activities. </summary>
   <br/>
+  <ol>
+  <li>
+    The Commission shall assign an identification number to a notified body.
+    <p>It shall assign a single such number even where the body is notified under several Union legal acts.</p>
+  </li>
+
+  <li>
+    The Commission shall make publicly available the list of the bodies notified under this Regulation, including the identification numbers that have been allocated to them and the activities for which they have been notified.
+    <p>The Commission shall ensure that that list is kept up to date.</p>
+  </li>
+</ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 45 - Changes to notifications</strong> If a notified body no longer meets Article 39 or fails its duties, the notifying authority must restrict/suspend/withdraw its notification and inform the EU, and the Member State must ensure the body’s files are transferred or kept available for authorities. </summary>
   <br/>
-</details>
+  <ol>
+  <li>
+    Where a notifying authority has ascertained or has been informed that a notified body no longer meets the requirements laid down in Article 39, or that it is failing to fulfil its obligations, the notifying authority shall restrict, suspend or withdraw notification as appropriate, depending on the seriousness of the failure to meet those requirements or fulfil those obligations.
+    It shall immediately inform the Commission and the other Member States accordingly.
+  </li>
 
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
+  <li>
+    In the event of restriction, suspension or withdrawal of notification, or where the notified body has ceased its activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed by another notified body or kept available for the responsible notifying and market surveillance authorities at their request.
+  </li>
+</ol>
 </details>
 
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 46 - Challenge of the competence of notified bodies</strong> The Commission must investigate doubts about a notified body’s competence, can require the notifying Member State to provide supporting information, must keep sensitive data confidential, and can demand corrective action or de-notification if the body no longer meets requirements. </summary>
   <br/>
+  <ol>
+  <li>
+    The Commission shall investigate all cases where it doubts, or where doubt is brought to its attention regarding, the competence of a notified body to meet, or the continued fulfilment by a notified body of, the requirements and responsibilities to which it is subject.
+  </li>
+
+  <li>
+    The notifying Member State shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the body concerned.
+  </li>
+
+  <li>
+    The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+  </li>
+
+  <li>
+    Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including de-notification if necessary.
+  </li>
+</ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>Article 47 - Operational obligations of notified bodies</strong> Notified bodies must run CRA conformity assessments under Article 32/Annex VIII in a proportionate but rigorous way, and must require fixes and refuse, suspend, or withdraw certificates when requirements are not met or later stop being met. </summary>
+  <br/>
+  <ol>
+  <li>
+    Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Article 32 and Annex VIII.
+  </li>
+
+  <li>
+    Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators.
+    Conformity assessment bodies shall perform their activities taking due account of the size of undertakings, in particular as regards microenterprises and small and medium-sized enterprises, the sector in which they operate, their structure, their degree of complexity and the cybersecurity risk level of the products with digital elements and technology in question and the mass or serial nature of the production process.
+  </li>
+
+  <li>
+    Notified bodies shall however respect the degree of rigour and the level of protection required for the compliance of products with digital elements with this Regulation.
+  </li>
+
+  <li>
+    Where a notified body finds that the requirements set out in Annex I or in corresponding harmonised standards or common specifications as referred to in Article 27 have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity.
+  </li>
+
+  <li>
+    Where, in the course of the monitoring of conformity following the issuance of a certificate, a notified body finds that a product with digital elements no longer complies with the requirements laid down in this Regulation, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate if necessary.
+  </li>
+
+  <li>
+    Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any certificates, as appropriate.
+  </li>
+</ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>Article 48 - Appeal against decisions of notified bodies</strong> Member States must ensure there is an appeal procedure against notified bodies’ decisions. </summary>
+  <br/>
+  Member States shall ensure that an appeal procedure against decisions of the notified bodies is available.
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>Article 49 - Information obligation on notified bodies</strong> Notified bodies must report key events and information to their notifying authority and share relevant negative—and on request positive—assessment information with peer notified bodies for the same products. </summary>
+  <br/>
+  <ol>
+  <li>
+    Notified bodies shall inform the notifying authority of the following:
+    <ol type="a">
+      <li>any refusal, restriction, suspension or withdrawal of a certificate;</li>
+      <li>any circumstances affecting the scope of and conditions for notification;</li>
+      <li>any request for information which they have received from market surveillance authorities regarding conformity assessment activities;</li>
+      <li>on request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.</li>
+    </ol>
+  </li>
+
+  <li>
+    Notified bodies shall provide the other bodies notified under this Regulation carrying out similar conformity assessment activities covering the same products with digital elements with relevant information on issues relating to negative and, upon request, positive conformity assessment results.
+  </li>
+  </ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>Article 50 - Exchange of experience</strong> The Commission must organise experience-sharing between Member States’ national authorities in charge of notification policy. </summary>
+  <br/>
+      The Commission shall provide for the organisation of the exchange of experience between the Member States’ national authorities responsible for notification policy.
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>Article 51 - Coordination of notified bodies</strong> The Commission must set up and run a cross-sector notified-bodies coordination group, and Member States must ensure their notified bodies participate. </summary>
+  <br/>
+  <ol>
+  <li>
+    The Commission shall ensure that appropriate coordination and cooperation between notified bodies are put in place and properly operated in the form of a cross-sectoral group of notified bodies.
+  </li>
+
+  <li>
+    Member States shall ensure that the bodies notified by them participate in the work of that group, directly or by means of designated representatives.
+  </li>
+</ol>
 </details>
 
 
