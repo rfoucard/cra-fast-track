@@ -1322,30 +1322,88 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 40 - Presumption of conformity of notified bodies</strong>If a conformity assessment body meets relevant published harmonised standards, it is presumed to meet the Article 39 requirements covered by those standards.  </summary>
   <br/>
+      Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article 39 in so far as the applicable harmonised standards cover those requirements.
+
 </details>
 
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 41 - Subsidiaries of and subcontracting by notified bodies</strong> If a notified body uses subcontractors or subsidiaries, it must ensure they meet Article 39, inform the notifying authority, get the manufacturer’s agreement, keep assessment records, and remain fully responsible for their work. </summary>
   <br/>
+  <ol>
+  <li>
+    Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 39 and shall inform the notifying authority accordingly.
+  </li>
+
+  <li>
+    Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever they are established.
+  </li>
+
+  <li>
+    Activities may be subcontracted or carried out by a subsidiary only with the agreement of the manufacturer.
+  </li>
+
+  <li>
+    Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation.
+  </li>
+  </ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 42 - Application for notification</strong> To be notified, a conformity assessment body must apply to its Member State’s notifying authority with a description of its activities/scope and either an accreditation certificate or equivalent evidence showing it meets Article 39. </summary>
   <br/>
+  <ol>
+  <li>
+    A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established.
+  </li>
+
+  <li>
+    That application shall be accompanied by a description of the conformity assessment activities, the conformity assessment procedure or procedures and the product or products with digital elements for which that body claims to be competent, as well as, where applicable, by an accreditation certificate issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 39.
+  </li>
+
+  <li>
+    Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 39.
+  </li>
+</ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 43 - Notification procedure</strong> Notifying authorities must notify only Article 39–compliant bodies via the EU NANDO system with full scope details and evidence, and a body can act as a notified body only after the objection period passes (2 weeks with accreditation, 2 months without), with later changes also notified. </summary>
   <br/>
+  <ol>
+  <li>
+    Notifying authorities shall notify only conformity assessment bodies which have satisfied the requirements laid down in Article 39.
+  </li>
+
+  <li>
+    The notifying authority shall notify the Commission and the other Member States using the New Approach Notified and Designated Organisations information system developed and managed by the Commission.
+  </li>
+
+  <li>
+    The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules and product or products with digital elements concerned and the relevant attestation of competence.
+  </li>
+
+  <li>
+    Where a notification is not based on an accreditation certificate as referred to in Article 42(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body’s competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 39.
+  </li>
+
+  <li>
+    The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of a notification where an accreditation certificate is used or within two months of a notification where accreditation is not used.
+    <p>Only such a body shall be considered to be a notified body for the purposes of this Regulation.</p>
+  </li>
+
+  <li>
+    The Commission and the other Member States shall be notified of any subsequent relevant changes to the notification.
+  </li>
+</ol>
 </details>
 
 
