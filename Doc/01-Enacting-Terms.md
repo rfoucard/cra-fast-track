@@ -1156,8 +1156,16 @@ Taking into account the level of technical development and the approach on confo
 ## Chapter IV - Notification of Conformity Assessment Bodies
 
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 35 - Notification</strong> Member States must notify the Commission and other Member States of authorised conformity assessment bodies and must aim to ensure enough notified bodies by 11 December 2026 to avoid market bottlenecks. </summary>
   <br/>
+  <ol>
+  <li>
+    Member States shall notify the Commission and the other Member States of bodies authorised to carry out conformity assessments in accordance with this Regulation.
+  </li>
+  <li>
+    Member States shall strive to ensure, by 11 December 2026 that there is a sufficient number of notified bodies in the Union to carry out conformity assessments, in order to avoid bottlenecks and hindrances to market entry.
+  </li>
+</ol>
 </details>
 
 
@@ -1211,3 +1219,4 @@ Taking into account the level of technical development and the approach on confo
   <summary><strong>  </strong>  </summary>
   <br/>
 </details>
+####
