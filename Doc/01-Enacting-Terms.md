@@ -2117,6 +2117,41 @@ Taking into account the level of technical development and the approach on confo
 
 </details>
 
+## Chapter VIII - Transitional and Final Provisions
+
+<br/>
+<details>
+  <summary><strong>Article 66 - Amendment to Regulation (EU) 2019/1020</strong> the Cyber Resilience Act is added to the EU market-surveillance framework, so authorities can enforce it using the existing Regulation 2019/1020 tools.</summary>
+  <br/>
+  In Annex I to Regulation (EU) 2019/1020, the following point is added:
+  <br/>
+‘72. Regulation (EU) 2024/2847 of the European Parliament and of the Council 
+  
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
 
 <br/>
 <details>
