@@ -1672,13 +1672,10 @@ Taking into account the level of technical development and the approach on confo
   <li>
     Where the market surveillance authority of a Member State has sufficient reason to consider that a product with digital elements, including its vulnerability handling, presents a significant cybersecurity risk, it shall, without undue delay and, where appropriate, in cooperation with the relevant CSIRT, carry out an evaluation of the product with digital elements concerned in respect of its compliance with all the requirements laid down in this Regulation. The relevant economic operators shall cooperate with the market surveillance authority as necessary.
 
-    <p>
+    <br>
       Where, in the course of that evaluation, the market surveillance authority finds that the product with digital elements does not comply with the requirements laid down in this Regulation, it shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product with digital elements into compliance with those requirements, to withdraw it from the market, or to recall it within a reasonable period, commensurate with the nature of the cybersecurity risk, as the market surveillance authority may prescribe.
-    </p>
-
-    <p>
+    <br>
       The market surveillance authority shall inform the relevant notified body accordingly. Article 18 of Regulation (EU) 2019/1020 shall apply to the corrective actions.
-    </p>
   </li>
 
   <li>
@@ -1697,9 +1694,8 @@ Taking into account the level of technical development and the approach on confo
   <li>
     Where the economic operator does not take adequate corrective action within the period referred to in paragraph 1, second subparagraph, the market surveillance authority shall take all appropriate provisional measures to prohibit or restrict that product with digital elements from being made available on its national market, to withdraw it from that market or to recall it.
 
-    <p>
+    <br>
       That authority shall notify the Commission and the other Member States, without delay, of those measures.
-    </p>
   </li>
 
   <li>
