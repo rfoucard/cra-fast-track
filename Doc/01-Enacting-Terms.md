@@ -2113,11 +2113,9 @@ Taking into account the level of technical development and the approach on confo
 <details>
   <summary><strong>Article 65 - Representative actions</strong> Consumers can use EU “representative actions” against CRA breaches by economic operators that harm, or could harm, collective consumer interests. </summary>
   <br/>
-  <ol>
-  <li>
+
     Directive (EU) 2020/1828 shall apply to the representative actions brought against infringements by economic operators of provisions of this Regulation that harm, or may harm, the collective interests of consumers.
-  </li>
-</ol>
+
 </details>
 
 
