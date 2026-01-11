@@ -1692,7 +1692,7 @@ Taking into account the level of technical development and the approach on confo
   <li>
     Where the economic operator does not take adequate corrective action within the period referred to in paragraph 1, second subparagraph, the market surveillance authority shall take all appropriate provisional measures to prohibit or restrict that product with digital elements from being made available on its national market, to withdraw it from that market or to recall it.
 
-    <br/>
+  <br/>
       That authority shall notify the Commission and the other Member States, without delay, of those measures.
   </li>
 
