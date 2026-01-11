@@ -1945,42 +1945,179 @@ Taking into account the level of technical development and the approach on confo
 </ol>
 </details>
 
-
+## Chapter VI - Delegated Powers and Committee Procedure
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 61 - Exercise of the delegation</strong> The Commission may adopt CRA delegated acts for 5 years (auto-renewable), after Member State expert consultation and EP/Council notification, but EP or Council can revoke the delegation and can block each act within 2 months (extendable to 4).</summary>
   <br/>
+  <ol>
+  <li>
+    The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+  </li>
+
+  <li>
+    The power to adopt delegated acts referred to in Article 2(5), second subparagraph, Article 7(3), Article 8(1) and (2), Article 13(8), fourth subparagraph, Article 14(9), Article 25, Article 27(9), Article 28(5) and Article 31(5) shall be conferred on the Commission for a period of five years from 10 December 2024.
+    The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period.
+    The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+  </li>
+
+  <li>
+    The delegation of power referred to in Article 2(5), second subparagraph, Article 7(3), Article 8(1) and (2), Article 13(8), fourth subparagraph, Article 14(9), Article 25, Article 27(9), Article 28(5) and Article 31(5) may be revoked at any time by the European Parliament or by the Council.
+    A decision to revoke shall put an end to the delegation of the power specified in that decision.
+    It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein.
+    It shall not affect the validity of any delegated acts already in force.
+  </li>
+
+  <li>
+    Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+  </li>
+
+  <li>
+    As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+  </li>
+
+  <li>
+    A delegated act adopted pursuant to Article 2(5), second subparagraph, Article 7(3), Article 8(1) or (2), Article 13(8), fourth subparagraph, Article 14(9), Article 25, Article 27(9), Article 28(5) or Article 31(5) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object.
+    That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+  </li>
+</ol>
 </details>
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 62 - Committee procedure</strong> The Commission must be assisted by a comitology committee and the written procedure can be stopped with no result if the chair or a member requests it in time. </summary>
   <br/>
+  <ol>
+  <li>
+    The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+  </li>
+
+  <li>
+    Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+  </li>
+
+  <li>
+    Where the opinion of the committee is to be obtained by written procedure, that procedure shall be terminated without result when, within the time-limit for delivery of the opinion, the chair of the committee so decides or a committee member so requests.
+  </li>
+</ol>
+</details>
+
+## Chapter VII - Confidentiality and Penalties
+
+<br/>
+<details>
+  <summary><strong>Article 63 - Confidentiality</strong> All CRA actors must keep sensitive information confidential, with limited sharing rules and possible protected exchanges with trusted third countries.</summary>
+  <br/>
+  <ol>
+  <li>
+    All parties involved in the application of this Regulation shall respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
+    <ol type="a">
+      <li>
+        intellectual property rights and confidential business information or trade secrets of a natural or legal person, including source code, except the cases referred to in Article 5 of Directive (EU) 2016/943 of the European Parliament and of the Council (37);
+      </li>
+      <li>
+        the effective implementation of this Regulation, in particular for the purposes of inspections, investigations or audits;
+      </li>
+      <li>
+        public and national security interests;
+      </li>
+      <li>
+        integrity of criminal or administrative proceedings.
+      </li>
+    </ol>
+  </li>
+
+  <li>
+    Without prejudice to paragraph 1, information exchanged on a confidential basis between the market surveillance authorities and between market surveillance authorities and the Commission shall not be disclosed without the prior agreement of the originating market surveillance authority.
+  </li>
+
+  <li>
+    Paragraphs 1 and 2 shall not affect the rights and obligations of the Commission, Member States and notified bodies with regard to the exchange of information and the dissemination of warnings, nor the obligations of the persons concerned to provide information under criminal law of the Member States.
+  </li>
+
+  <li>
+    The Commission and Member States may exchange, where necessary, sensitive information with relevant authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements guaranteeing an adequate level of protection.
+  </li>
+</ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>Article 64 - Penalties</strong> Member States must enforce CRA penalties, including fines up to €15M/2.5% for core security and manufacturer duties, €10M/2% for other key obligations, and €5M/1% for misleading information, with case-by-case factors, cross-border coordination, and exemptions for certain micro/small manufacturers’ reporting delays and for open-source software stewards. </summary>
+  <br/>
+  <ol>
+  <li>
+    Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented.
+    The penalties provided for shall be effective, proportionate and dissuasive.
+    Member States shall, without delay, notify the Commission of those rules and measures and shall notify it, without delay, of any subsequent amendment affecting them.
+  </li>
+
+  <li>
+    Non-compliance with the essential cybersecurity requirements set out in Annex I and the obligations set out in Articles 13 and 14 shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 2,5 % of the its total worldwide annual turnover for the preceding financial year, whichever is higher.
+  </li>
+
+  <li>
+    Non-compliance with the obligations set out in Articles 18 to 23, Article 28, Article 30(1) to (4), Article 31(1) to (4), Article 32(1), (2) and (3), Article 33(5), and Articles 39, 41, 47, 49 and 53 shall be subject to administrative fines of up to EUR 10 000 000 or, if the offender is an undertaking, up to 2 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+  </li>
+
+  <li>
+    The supply of incorrect, incomplete or misleading information to notified bodies and market surveillance authorities in reply to a request shall be subject to administrative fines of up to EUR 5 000 000 or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+  </li>
+
+  <li>
+    When deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and due regard shall be given to the following:
+    <ol type="a">
+      <li>the nature, gravity and duration of the infringement and of its consequences;</li>
+      <li>whether administrative fines have been already applied by the same or other market surveillance authorities to the same economic operator for a similar infringement;</li>
+      <li>the size, in particular with regard to microenterprises and small and medium sized-enterprises, including start-ups, and the market share of the economic operator committing the infringement.</li>
+    </ol>
+  </li>
+
+  <li>
+    Market surveillance authorities that apply administrative fines shall communicate that application to the market surveillance authorities of other Member States through the information and communication system referred to in Article 34 of Regulation (EU) 2019/1020.
+  </li>
+
+  <li>
+    Each Member State shall lay down rules on whether and to what extent administrative fines may be imposed on public authorities and public bodies established in that Member State.
+  </li>
+
+  <li>
+    Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fines are imposed by competent national courts or other bodies according to the competences established at national level in those Member States.
+    The application of such rules in those Member States shall have an equivalent effect.
+  </li>
+
+  <li>
+    Administrative fines may be imposed, depending on the circumstances of each individual case, in addition to any other corrective or restrictive measures applied by the market surveillance authorities for the same infringement.
+  </li>
+
+  <li>
+    By way of derogation from paragraphs 3 to 9, the administrative fines referred to in those paragraphs shall not apply to the following:
+    <ol type="a">
+      <li>
+        manufacturers that qualify as microenterprises or small enterprises with regard to any failure to meet the deadline referred to in Article 14(2), point (a), or Article 14(4), point (a);
+      </li>
+      <li>
+        any infringement of this Regulation by open-source software stewards.
+      </li>
+    </ol>
+  </li>
+</ol>
 </details>
 
 
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 65 - Representative actions</strong> Consumers can use EU “representative actions” against CRA breaches by economic operators that harm, or could harm, collective consumer interests. </summary>
   <br/>
-</details>
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-
-
-
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
+  <ol>
+  <li>
+    Directive (EU) 2020/1828 shall apply to the representative actions brought against infringements by economic operators of provisions of this Regulation that harm, or may harm, the collective interests of consumers.
+  </li>
+</ol>
 </details>
 
 
