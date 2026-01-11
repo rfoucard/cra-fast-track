@@ -1867,6 +1867,125 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
+  <summary><strong>Article 58 - Formal non-compliance</strong>  If formal compliance items are missing or wrong (CE marking, EU declaration, notified body ID, or technical documentation), authorities must require the manufacturer to fix them, and if the issue persists they must restrict, ban, withdraw, or recall the product.</summary>
+  <br/>
+  <ol>
+  <li>
+    Where the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant manufacturer to put an end to the non-compliance concerned:
+    <ol type="a">
+      <li>the CE marking has been affixed in violation of Articles 29 and 30;</li>
+      <li>the CE marking has not been affixed;</li>
+      <li>the EU declaration of conformity has not been drawn up;</li>
+      <li>the EU declaration of conformity has not been drawn up correctly;</li>
+      <li>the identification number of the notified body which is involved in the conformity assessment procedure, where applicable, has not been affixed;</li>
+      <li>the technical documentation is either not available or not complete.</li>
+    </ol>
+  </li>
+
+  <li>
+    Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the product with digital elements from being made available on the market or ensure that it is recalled or withdrawn from the market.
+  </li>
+</ol>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>Article 59 - Joint activities of market surveillance authorities</strong> Authorities may run cross-border joint checks to tackle suspected non-compliance, as long as fairness and impartiality are protected, results can feed investigations, and the cooperation agreement is published. </summary>
+  <br/>
+  <ol>
+  <li>
+    Market surveillance authorities may agree with other relevant authorities to carry out joint activities aimed at ensuring cybersecurity and the protection of consumers with respect to specific products with digital elements placed on the market or made available on the market, in particular products with digital elements that are often found to present cybersecurity risks.
+  </li>
+
+  <li>
+    The Commission or ENISA shall propose joint activities for checking compliance with this Regulation to be conducted by market surveillance authorities based on indications or information of potential non-compliance across several Member States of products with digital elements that fall within the scope of this Regulation with the requirements laid down in this Regulation.
+  </li>
+
+  <li>
+    The market surveillance authorities and, where applicable, the Commission, shall ensure that the agreement to carry out joint activities does not lead to unfair competition between economic operators and does not negatively affect the objectivity, independence and impartiality of the parties to the agreement.
+  </li>
+
+  <li>
+    A market surveillance authority may use any information obtained as a result of the joint activities carried out as part of any investigation that it undertakes.
+  </li>
+
+  <li>
+    The market surveillance authority concerned and, where applicable, the Commission, shall make the agreement on joint activities, including the names of the parties involved, available to the public.
+  </li>
+</ol>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>Article 60 - Sweeps</strong> Market surveillance authorities must run coordinated “sweeps” to detect CRA non-compliance, usually coordinated by the Commission, with ENISA able to propose targets and Commission officials allowed to join. </summary>
+  <br/>
+  <ol>
+  <li>
+    Market surveillance authorities shall conduct simultaneous coordinated control actions (sweeps) of particular products with digital elements or categories thereof to check compliance with or to detect infringements to this Regulation. Those sweeps may include inspections of products with digital elements acquired under a cover identity.
+  </li>
+
+  <li>
+    Unless otherwise agreed upon by the market surveillance authorities involved, sweeps shall be coordinated by the Commission. The coordinator of the sweep shall, where appropriate, make the aggregated results publicly available.
+  </li>
+
+  <li>
+    Where, in the performance of its tasks, including based on the notifications received pursuant to Article 14(1) and (3), ENISA identifies categories of products with digital elements for which sweeps may be organised, it shall submit a proposal for a sweep to the coordinator referred to in paragraph 2 of this Article for the consideration of the market surveillance authorities.
+  </li>
+
+  <li>
+    When conducting sweeps, the market surveillance authorities involved may use the investigation powers set out in Articles 52 to 58 and any other powers conferred upon them by national law.
+  </li>
+
+  <li>
+    Market surveillance authorities may invite Commission officials, and other accompanying persons authorised by the Commission, to participate in sweeps.
+  </li>
+</ol>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+
+<br/>
+<details>
+  <summary><strong>  </strong>  </summary>
+  <br/>
+</details>
+
+
+<br/>
+<details>
   <summary><strong>  </strong>  </summary>
   <br/>
 </details>
