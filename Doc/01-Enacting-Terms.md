@@ -2143,7 +2143,7 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong> EU type-approval for L-category vehicles regulation (EU No 168/2013) is amended to add “protection against cyberattacks” as a required compliance.</summary>
+  <summary><strong>Article 68 - Amendment to Regulation (EU) No 168/2013</strong> EU type-approval for L-category vehicles regulation (EU No 168/2013) is amended to add “protection against cyberattacks” as a required compliance.</summary>
   <br/>
   In Part C1, in the table, of Annex II to Regulation (EU) No 168/2013 of the European Parliament and of the Council (38), the following entry is added:
   <br/>
@@ -2175,8 +2175,19 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 69 - Transitional provisions</strong> Existing EU cybersecurity certificates stay valid until 11 June 2028, CRA rules generally apply only to products placed before 11 December 2027 if they are substantially modified, but Article 14 reporting applies to all in-scope products from that date.</summary>
   <br/>
+  <ol>
+  <li>
+    EU type-examination certificates and approval decisions issued regarding cybersecurity requirements for products with digital elements that are subject to Union harmonisation legislation other than this Regulation shall remain valid until 11 June 2028, unless they expire before that date, or unless otherwise specified in such other Union harmonisation legislation, in which case they shall remain valid as referred to in that legislation.
+  </li>
+  <li>
+    Products with digital elements that have been placed on the market before 11 December 2027 shall be subject to the requirements set out in this Regulation only if, from that date, those products are subject to a substantial modification.
+  </li>
+  <li>
+    By way of derogation from paragraph 2 of this Article, the obligations laid down in Article 14 shall apply to all products with digital elements that fall within the scope of this Regulation that have been placed on the market before 11 December 2027.
+  </li>
+</ol>
 </details>
 
 
