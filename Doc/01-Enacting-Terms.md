@@ -2210,29 +2210,33 @@ Taking into account the level of technical development and the approach on confo
 
 <br/>
 <details>
-  <summary><strong>  </strong>  </summary>
+  <summary><strong>Article 71 - Entry into force and application</strong> The CRA enters into force 20 days after publication, applies from 11 December 2027, but Article 14 applies from 11 September 2026 and Chapter IV (Articles 35–51) from 11 June 2026.</summary>
   <br/>
+  <ol>
+  <li>
+    This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+  </li>
+  <li>
+    This Regulation shall apply from 11 December 2027.
+    <br/>
+    However, Article 14 shall apply from 11 September 2026 and Chapter IV (Articles 35 to 51) shall apply from 11 June 2026.
+  </li>
+</ol>
 </details>
-
-
 <br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-
-
-
 <br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
+Done at Strasbourg, 23 October 2024.
 
-<br/>
-<details>
-  <summary><strong>  </strong>  </summary>
-  <br/>
-</details>
-####
+For the European Parliament
+
+The President
+
+R. METSOLA
+
+For the Council
+
+The President
+
+ZSIGMOND B. P.
