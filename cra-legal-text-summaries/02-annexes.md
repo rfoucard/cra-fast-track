@@ -20,3 +20,17 @@ The annexes are ... **In short: annexes provide the “...”.**
   detail
   </details>
 <br/>
+
+## Annex II - Information and Instructions to the User
+
+## Annex III - Important Products with Digital Elements
+
+## Annex IV - Critical Products with Digital Elements
+
+## Annex V - EU Declaration of Conformity
+
+## Annex VI - Simplified EU Declaration of Conformity
+
+## Annex VII - Content of the Technical Documentation
+
+## Annex VIII - Conformity Assessment Procedures
