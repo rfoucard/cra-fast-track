@@ -12,7 +12,7 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold
+      bold -
     </strong>
   regular
   </summary>
