@@ -9,3 +9,14 @@ The annexes are ... **In short: annexes provide the “...”.**
 
 ## Annex I - Essential Cybersecurity Requirements
 
+<details>
+  <summary>
+    <strong>
+      bold
+    </strong>
+  regular
+  </summary>
+  <br/>
+  detail
+  </details>
+<br/>
