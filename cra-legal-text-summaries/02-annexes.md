@@ -136,12 +136,32 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Class I -
     </strong>
-  regular
+  covers “important” products such as identity/access tools, browsers and password managers, malware/VPN and network security systems, core platform and network hardware/software (OS, routers, interfaces, secure chips), and selected consumer IoT (smart-home security devices, connected toys, and certain wearables).
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>Identity management systems and privileged access management software and hardware, including authentication and access control readers, including biometric readers</li>
+  <li>Standalone and embedded browsers</li>
+  <li>Password managers</li>
+  <li>Software that searches for, removes, or quarantines malicious software</li>
+  <li>Products with digital elements with the function of virtual private network (VPN)</li>
+  <li>Network management systems</li>
+  <li>Security information and event management (SIEM) systems</li>
+  <li>Boot managers</li>
+  <li>Public key infrastructure and digital certificate issuance software</li>
+  <li>Physical and virtual network interfaces</li>
+  <li>Operating systems</li>
+  <li>Routers, modems intended for the connection to the internet, and switches</li>
+  <li>Microprocessors with security-related functionalities</li>
+  <li>Microcontrollers with security-related functionalities</li>
+  <li>Application specific integrated circuits (ASIC) and field-programmable gate arrays (FPGA) with security-related functionalities</li>
+  <li>Smart home general purpose virtual assistants</li>
+  <li>Smart home products with security functionalities, including smart door locks, security cameras, baby monitoring systems and alarm systems</li>
+  <li>Internet connected toys covered by Directive 2009/48/EC of the European Parliament and of the Council (1) that have social interactive features (e.g. speaking or filming) or that have location tracking features</li>
+  <li>Personal wearable products to be worn or placed on a human body that have a health monitoring (such as tracking) purpose and to which Regulation (EU) 2017/745 or (EU) No 2017/746 do not apply, or personal wearable products that are intended for the use by and for children</li>
+</ol>
   </details>
 <br/>
 
