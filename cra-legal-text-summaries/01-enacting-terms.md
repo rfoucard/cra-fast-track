@@ -32,11 +32,9 @@ The enacting terms are the binding core of the Regulation: they set out the actu
 
   <li>
     This Regulation does not apply to products with digital elements to which the following Union legal acts apply:
-    <ol type="a">
-      <li>Regulation (EU) 2017/745;</li>
-      <li>Regulation (EU) 2017/746;</li>
-      <li>Regulation (EU) 2019/2144.</li>
-    </ol>
+    <p>(a) Regulation (EU) 2017/745;</p>
+    <p>(b) Regulation (EU) 2017/746;</p>
+    <p>(c) Regulation (EU) 2019/2144.</p>
   </li>
 
   <li>
@@ -49,10 +47,9 @@ The enacting terms are the binding core of the Regulation: they set out the actu
 
   <li>
     The application of this Regulation to products with digital elements covered by other Union rules laying down requirements that address all or some of the risks covered by the essential cybersecurity requirements set out in Annex I may be limited or excluded where:
-    <ol type="a">
-      <li>such limitation or exclusion is consistent with the overall regulatory framework that applies to those products; and</li>
-      <li>the sectoral rules achieve the same or a higher level of protection as that provided for by this Regulation.</li>
-    </ol>
+    <p>(a) such limitation or exclusion is consistent with the overall regulatory framework that applies to those products; and</p>
+    <p>(b) the sectoral rules achieve the same or a higher level of protection as that provided for by this Regulation.</p>
+
     <p>
       The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by specifying whether such limitation or exclusion is necessary, the products and rules concerned, as well as the scope of the limitation, if relevant.
     </p>
