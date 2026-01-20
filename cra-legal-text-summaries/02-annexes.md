@@ -317,6 +317,7 @@ The annexes are ... **In short: annexes provide the “...”.**
   </li>
   <li>
     Design, development, production and vulnerability handling of products with digital elements
+    <br/>
     The manufacturer shall take all measures necessary so that the design, development, production and vulnerability handling processes and their monitoring ensure compliance of the manufactured or developed products with digital elements and of the processes put in place by the manufacturer with the essential cybersecurity requirements set out in Parts I and II of Annex I.
   </li>
   <li>
@@ -328,6 +329,7 @@ The annexes are ... **In short: annexes provide the “...”.**
   </li>
   <li>
     Authorised representatives
+    <br/>
     The manufacturer’s obligations set out in point 4 may be fulfilled by its authorised representative, on its behalf and under its responsibility, provided that the relevant obligations are specified in the mandate.
   </li>
 </ol>
