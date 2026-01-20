@@ -47,12 +47,37 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Part II Vulnerability handling requirements -
     </strong>
-  regular
+  Manufacturers must manage vulnerabilities end-to-end: keep an SBOM, fix issues quickly with secure updates, test regularly, disclose fixes responsibly, run coordinated disclosure, enable reporting, and distribute free security patches promptly.
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>
+    identify and document vulnerabilities and components contained in products with digital elements, including by drawing up a software bill of materials in a commonly used and machine-readable format covering at the very least the top-level dependencies of the products;
+  </li>
+  <li>
+    in relation to the risks posed to products with digital elements, address and remediate vulnerabilities without delay, including by providing security updates; where technically feasible, new security updates shall be provided separately from functionality updates;
+  </li>
+  <li>
+    apply effective and regular tests and reviews of the security of the product with digital elements;
+  </li>
+  <li>
+    once a security update has been made available, share and publicly disclose information about fixed vulnerabilities, including a description of the vulnerabilities, information allowing users to identify the product with digital elements affected, the impacts of the vulnerabilities, their severity and clear and accessible information helping users to remediate the vulnerabilities; in duly justified cases, where manufacturers consider the security risks of publication to outweigh the security benefits, they may delay making public information regarding a fixed vulnerability until after users have been given the possibility to apply the relevant patch;
+  </li>
+  <li>
+    put in place and enforce a policy on coordinated vulnerability disclosure;
+  </li>
+  <li>
+    take measures to facilitate the sharing of information about potential vulnerabilities in their product with digital elements as well as in third-party components contained in that product, including by providing a contact address for the reporting of the vulnerabilities discovered in the product with digital elements;
+  </li>
+  <li>
+    provide for mechanisms to securely distribute updates for products with digital elements to ensure that vulnerabilities are fixed or mitigated in a timely manner and, where applicable for security updates, in an automatic manner;
+  </li>
+  <li>
+    ensure that, where security updates are available to address identified security issues, they are disseminated without delay and, unless otherwise agreed between a manufacturer and a business user in relation to a tailor-made product with digital elements, free of charge, accompanied by advisory messages providing users with the relevant information, including on potential action to be taken.
+  </li>
+</ol>
   </details>
 <br/>
 
