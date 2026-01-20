@@ -205,12 +205,28 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      The EU Declaration of Conformity
     </strong>
-  regular
+  must identify the product and responsible party, state sole responsibility and legal conformity basis, cite standards/specs/certifications, and include notified-body details and signature info where relevant.
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>Name and type and any additional information enabling the unique identification of the product with digital elements</li>
+  <li>Name and address of the manufacturer or its authorised representative</li>
+  <li>A statement that the EU declaration of conformity is issued under the sole responsibility of the provider</li>
+  <li>Object of the declaration (identification of the product with digital elements allowing traceability, which may include a photograph, where appropriate)</li>
+  <li>A statement that the object of the declaration described above is in conformity with the relevant Union harmonisation legislation</li>
+  <li>References to any relevant harmonised standards used or any other common specification or cybersecurity certification in relation to which conformity is declared</li>
+  <li>Where applicable, the name and number of the notified body, a description of the conformity assessment procedure performed and identification of the certificate issued</li>
+  <li>
+    Additional information:
+    <div>
+      <p>Signed for and on behalf of:</p>
+      <p>(place and date of issue):</p>
+      <p>(name, function) (signature):</p>
+    </div>
+  </li>
+</ol>
   </details>
 <br/>
 
