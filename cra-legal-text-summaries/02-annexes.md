@@ -168,12 +168,17 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Class II -
     </strong>
-  regular
+  covers hypervisors/container runtimes, network defence tools (firewalls and IDS/IPS), and tamper-resistant secure chips (microprocessors and microcontrollers).
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>Hypervisors and container runtime systems that support virtualised execution of operating systems and similar environments</li>
+  <li>Firewalls, intrusion detection and prevention systems</li>
+  <li>Tamper-resistant microprocessors</li>
+  <li>Tamper-resistant microcontrollers</li>
+</ol>
   </details>
 <br/>
 
