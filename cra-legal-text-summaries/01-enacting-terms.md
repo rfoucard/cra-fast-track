@@ -49,10 +49,7 @@ The enacting terms are the binding core of the Regulation: they set out the actu
     The application of this Regulation to products with digital elements covered by other Union rules laying down requirements that address all or some of the risks covered by the essential cybersecurity requirements set out in Annex I may be limited or excluded where:
     <p>(a) such limitation or exclusion is consistent with the overall regulatory framework that applies to those products; and</p>
     <p>(b) the sectoral rules achieve the same or a higher level of protection as that provided for by this Regulation.</p>
-
-    <p>
-      The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by specifying whether such limitation or exclusion is necessary, the products and rules concerned, as well as the scope of the limitation, if relevant.
-    </p>
+    <p>The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by specifying whether such limitation or exclusion is necessary, the products and rules concerned, as well as the scope of the limitation, if relevant.</p>
   </li>
 
   <li>
