@@ -253,12 +253,48 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Technical documentation must
     </strong>
-  regular
+  describe the product and versions, its design/build and vulnerability processes, risk assessment and support period, applied standards/certifications (or alternative solutions), test reports, the EU DoC, and—if requested—the SBOM.
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>
+    a general description of the product with digital elements, including:
+    <div>
+      <p>(a) its intended purpose;</p>
+      <p>(b) versions of software affecting compliance with essential cybersecurity requirements;</p>
+      <p>(c) where the product with digital elements is a hardware product, photographs or illustrations showing external features, marking and internal layout;</p>
+      <p>(d) user information and instructions as set out in Annex II;</p>
+    </div>
+  </li>
+  <li>
+    a description of the design, development and production of the product with digital elements and vulnerability handling processes, including:
+    <div>
+      <p>(a) necessary information on the design and development of the product with digital elements, including, where applicable, drawings and schemes and a description of the system architecture explaining how software components build on or feed into each other and integrate into the overall processing;</p>
+      <p>(b) necessary information and specifications of the vulnerability handling processes put in place by the manufacturer, including the software bill of materials, the coordinated vulnerability disclosure policy, evidence of the provision of a contact address for the reporting of the vulnerabilities and a description of the technical solutions chosen for the secure distribution of updates;</p>
+      <p>(c) necessary information and specifications of the production and monitoring processes of the product with digital elements and the validation of those processes;</p>
+    </div>
+  </li>
+  <li>
+    an assessment of the cybersecurity risks against which the product with digital elements is designed, developed, produced, delivered and maintained pursuant to Article 13, including how the essential cybersecurity requirements set out in Part I of Annex I are applicable;
+  </li>
+  <li>
+    relevant information that was taken into account to determine the support period pursuant to Article 13(8) of the product with digital elements;
+  </li>
+  <li>
+    a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, common specifications as set out in Article 27 of this Regulation or European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 pursuant to Article 27(8) of this Regulation, and, where those harmonised standards, common specifications or European cybersecurity certification schemes have not been applied, descriptions of the solutions adopted to meet the essential cybersecurity requirements set out in Parts I and II of Annex I, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards, common specifications or European cybersecurity certification schemes, the technical documentation shall specify the parts which have been applied;
+  </li>
+  <li>
+    reports of the tests carried out to verify the conformity of the product with digital elements and of the vulnerability handling processes with the applicable essential cybersecurity requirements as set out in Parts I and II of Annex I;
+  </li>
+  <li>
+    a copy of the EU declaration of conformity;
+  </li>
+  <li>
+    where applicable, the software bill of materials, further to a reasoned request from a market surveillance authority provided that it is necessary in order for that authority to be able to check compliance with the essential cybersecurity requirements set out in Annex I.
+  </li>
+</ol>
   </details>
 <br/>
 
