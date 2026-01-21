@@ -413,12 +413,32 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Part III Conformity to type based on internal production control (based on module C) -
     </strong>
-  regular
+  Module C requires the manufacturer to keep production and monitoring aligned with the approved EU-type examination certificate and the essential cybersecurity requirements (Annex I, Parts I and II). The manufacturer must affix the CE marking, draft and retain a declaration of conformity for each product model (10 years or the support period, whichever is longer), and provide it to authorities on request; an authorised representative may perform these tasks under a mandate, on the manufacturer’s responsibility.
   </summary>
   <br/>
-  detail
+  <ol>
+  <li>
+    Conformity to type based on internal production control is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations set out in points 2 and 3 of this Part, and ensures and declares that the products with digital elements concerned are in conformity with the type described in the EU-type examination certificate and satisfy the essential cybersecurity requirements set out in Part I of Annex I and that the manufacturer meets the essential cybersecurity requirements set out in Part II of Annex I.
+  </li>
+
+  <li>
+    Production<br>
+    The manufacturer shall take all measures necessary so that the production and its monitoring ensure conformity of the manufactured products with digital elements with the approved type described in the EU-type examination certificate and with the essential cybersecurity requirements as set out in Part I of Annex I and ensures that the manufacturer meets the essential cybersecurity requirements set out in Part II of Annex I.
+  </li>
+
+  <li>
+    Conformity marking and declaration of conformity
+    <p>3.1. The manufacturer shall affix the CE marking to each individual product with digital elements that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements set out in this Regulation.</p>
+    <p>3.2. The manufacturer shall draw up a written declaration of conformity for a product model and keep it at the disposal of the national authorities for 10 years after the product with digital elements has been placed on the market or for the support period, whichever is longer. The declaration of conformity shall identify the product model for which it has been drawn up. A copy of the declaration of conformity shall be made available to the relevant authorities upon request.</p>
+  </li>
+
+  <li>
+    Authorised representative<br>
+    The manufacturer’s obligations set out in point 3 may be fulfilled by its authorised representative, on its behalf and under its responsibility, provided that the relevant obligations are specified in the mandate.
+  </li>
+</ol>
   </details>
 <br/>
 
