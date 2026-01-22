@@ -445,9 +445,9 @@ The annexes are ... **In short: annexes provide the “...”.**
 <details>
   <summary>
     <strong>
-      bold -
+      Part IV Conformity based on full quality assurance (based on module H) -
     </strong>
-  regular
+  Module H (“full quality assurance”) requires the manufacturer to run an approved quality system covering design, development, production, final inspection/testing, and vulnerability handling throughout the support period, under surveillance by a notified body. The manufacturer applies to a notified body with technical documentation and quality-system documentation; changes to the system must be reported and may require reassessment. The notified body audits and can access relevant sites and records. The manufacturer must affix the CE marking (plus the notified body’s ID number), issue a declaration of conformity per model (kept 10 years or the support period, whichever is longer), and retain key documentation and notified-body decisions for the same period; an authorised representative may fulfil specified obligations under mandate.
   </summary>
   <br/>
   detail
