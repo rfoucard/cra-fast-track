@@ -5,7 +5,7 @@ The enacting terms are the binding core of the Regulation: they set out the actu
 **This version proposes simplified summaries as "TLDR;", but you can read the original text clicking on the summaries.**
 
 - **Estimated reading time (summaries only):** ~20 minutes  
-- **Estimated reading time (full text + summaries):** ~4 hours
+- **Estimated reading time (full text + summaries):** ~3 hours
 
 ## Chapter I - General Provisions
 
