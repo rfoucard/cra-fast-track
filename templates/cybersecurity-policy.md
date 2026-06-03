@@ -3,6 +3,7 @@
 ### TYPO3 Association, Inc.
 
 **EU Cyber Resilience Act (Regulation 2024/2847) Compliant**
+
 **Based on the OWASP CRA Template, licensed under CC BY 4.0. Modified by the TYPO3 Association.**
 
 ---
