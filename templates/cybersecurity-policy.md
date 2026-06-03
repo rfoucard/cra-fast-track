@@ -4,7 +4,7 @@
 
 **EU Cyber Resilience Act (Regulation 2024/2847) Compliant**
 
-**Based on the OWASP CRA Template, licensed under CC BY 4.0. Modified by the TYPO3 Association.**
+**Based on the [OWASP CRA Template](https://github.com/OWASP/CRA/blob/main/oss-steward-cybersecurity-policy.md), licensed under CC BY 4.0. Modified by the TYPO3 Association.**
 
 ---
 
