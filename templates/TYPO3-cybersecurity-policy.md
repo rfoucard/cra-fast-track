@@ -157,6 +157,7 @@ Until further regulatory guidance is issued regarding the designation of a coord
 The TYPO3 Security Team supports both the TYPO3 Association and TYPO3 GmbH. Using the same designated CSIRT promotes a consistent vulnerability reporting process, facilitates coordination between the Steward and the Manufacturer, and reduces the administrative burden associated with maintaining separate reporting procedures.
 
 This designation will be reviewed if future guidance issued by the European Commission, ENISA, or the relevant national authorities provides a different interpretation or identifies another coordinating CSIRT.
+
 ---
 
 ## 5. Secure Development Practices
