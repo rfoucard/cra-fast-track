@@ -8,7 +8,7 @@ flowchart TD
     A["Security report received via security@typo3.org"] --> B["Report imported into dedicated OTOBO instance"]
     B --> C["Immediate notification sent to Security Team"]
     C --> AE{"Does the report indicate potential active exploitation?"}
-    AE -- "Yes" --> AEP["Active Exploitation Assessment Process"]
+    AE -- "Yes" --> AEP["Active Exploitation Assessment Process"](./actively-exploited-vulnerability-process.md)
     AE -- "No" --> D["First inspection and triage (usually within 24–48 hours, potentially longer on weekends and holiday periods)"]
     AEP --> D
 
@@ -56,6 +56,4 @@ flowchart TD
     X --> Y["Inform reporter about the fix"]
     Y --> Z["Inform reporter about potential TYPO3 Bug Bounty reward"]
     Z --> AA["Reward paid from corresponding team budget"]
-
-    click AEP "actively-exploited-vulnerability-process.md" "Open Active Exploitation Assessment Process"
 ```
