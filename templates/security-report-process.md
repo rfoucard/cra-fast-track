@@ -31,12 +31,12 @@ flowchart TD
     SI -- "No" --> I["Inform reporter that the report was accepted and categorized as Service / Infrastructure"]
     SIP --> I
 
-    G --> G1["Create internal ticket on forge.typo3.org and notify relevant Core Development Team members"]
     H --> H1["Inform extension maintainer by email"]
+    G --> G1["Create internal ticket on forge.typo3.org and notify relevant Core Development Team members"]
     I --> I1["Forward confirmed vulnerability to TYPO3 Server Team or TYPO3 GmbH Services Team"]
 
-    G1 --> J["Corresponding team or maintainer works on a fix"]
-    H1 --> J
+    H1 --> J["Corresponding team or maintainer works on a fix"]
+    G1 --> J
     I1 --> J
 
     J --> K["Security Team supports in an advisory role (exceptionally provides patches when needed)"]
