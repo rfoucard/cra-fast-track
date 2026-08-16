@@ -57,6 +57,6 @@ flowchart TD
     Y --> Z["Inform reporter about potential TYPO3 Bug Bounty reward"]
     Z --> AA["Reward paid from corresponding team budget"]
 
-style AE fill:#fff3cd
-style AEP fill:#fff3cd
+    style AE fill:#fff3cd
+    style AEP fill:#fff3cd
 ```
