@@ -18,8 +18,8 @@ flowchart TD
     D --> E{"Triage result"}
 
     E -- "Rejected" --> R["Inform reporter that the report was rejected"]
-    E -- "Extension" --> EX[" "]
-    EX --> EXT[" "]
+    E -- "Extension" -- EX[" "]
+    EX -- EXT[" "]
     EXT --> H["Inform reporter that the report was accepted and categorized as Extension"]
 
     E -- "Core" --> F{"Does the report indicate potential active exploitation?"}
