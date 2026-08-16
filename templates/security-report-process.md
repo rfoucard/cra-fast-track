@@ -19,12 +19,17 @@ flowchart TD
 
     E -- "Rejected" --> R["Inform reporter that the report was rejected"]
 
+    E -- "Extension" --> H["Inform reporter that the report was accepted and categorized as Extension"]
+
     E -- "Core" --> F{"Does the report indicate potential active exploitation?"}
     F -- "Yes" --> FP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
     F -- "No" --> G["Inform reporter that the report was accepted and categorized as Core"]
     FP --> G
-    E -- "Extension" --> H["Inform reporter that the report was accepted and categorized as Extension"]
-    E -- "Service / Infrastructure" --> I["Inform reporter that the report was accepted and categorized as Service / Infrastructure"]
+
+    E -- "Service / Infrastructure" --> SI{"Does the report concern a CRA-relevant service?"}
+    SI -- "Yes" --> SIP["Severe Incident Assessment Process"]
+    SI -- "No" --> I["Inform reporter that the report was accepted and categorized as Service / Infrastructure"]
+    SIP --> I
 
     G --> G1["Create internal ticket on forge.typo3.org and notify relevant Core Development Team members"]
     H --> H1["Inform extension maintainer by email"]
@@ -65,4 +70,6 @@ flowchart TD
 
     style F fill:#fff3cd
     style FP fill:#fff3cd
+    style SI fill:#fff3cd
+    style SIP fill:#fff3cd
 ```
