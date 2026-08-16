@@ -13,16 +13,14 @@ flowchart TD
 
     A["Security report received via security@typo3.org (T_received)"] --> B["Report immediately imported into dedicated OTOBO instance"]
     B --> C["Immediate notification sent to Security Team"]
-    C --> AE{"Does the report indicate potential active exploitation?"}
-    AE -- "Yes" --> AEP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
-    AE -- "No" --> D["First inspection and triage (internal target: ≤ T_received + 2 Working days)"]
-    AEP --> D
-
-    D --> E{"Triage result"}
+    C --> D --> E{"Triage result"}
 
     E -- "Rejected" --> R["Inform reporter that the report was rejected"]
 
-    E -- "Core" --> G["Inform reporter that the report was accepted and categorized as Core"]
+    E -- "Core" --> AE{"Does the report indicate potential active exploitation?"}
+    AE -- "Yes" --> AEP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
+    AE -- "No" --> D["First inspection and triage (internal target: ≤ T_received + 2 Working days)"]
+    AEP --> G["Inform reporter that the report was accepted and categorized as Core"]
     E -- "Extension" --> H["Inform reporter that the report was accepted and categorized as Extension"]
     E -- "Infrastructure" --> I["Inform reporter that the report was accepted and categorized as Infrastructure"]
 
