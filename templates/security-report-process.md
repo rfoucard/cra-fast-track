@@ -18,8 +18,8 @@ flowchart TD
     D --> E{"Triage result"}
 
     E -- "Rejected" --> R["Inform reporter that the report was rejected"]
-
-    E -- "Extension" --> H["Inform reporter that the report was accepted and categorized as Extension"]
+    E -- "Extension" --> EXT[" "]
+    EXT --> H["Inform reporter that the report was accepted and categorized as Extension"]
 
     E -- "Core" --> F{"Does the report indicate potential active exploitation?"}
     F -- "Yes" --> FP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
@@ -72,4 +72,5 @@ flowchart TD
     style FP fill:#fff3cd
     style SI fill:#fff3cd
     style SIP fill:#fff3cd
+    style EXT fill:none,stroke:none
 ```
