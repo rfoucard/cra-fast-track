@@ -28,7 +28,7 @@ flowchart TD
     FP --> G
 
     E -- "Service / Infrastructure" --> SI{"Does the report concern a CRA-relevant service?"}
-    SI -- "Yes" --> SIP["Severe Incident Assessment Process"]
+    SI -- "Yes" --> SIP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/severe-incident-process.md">Severe Incident Assessment Process</a>"]
     SI -- "No" --> I["Inform reporter that the report was accepted and categorized as Service / Infrastructure"]
     SIP --> I
 
