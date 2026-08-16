@@ -19,10 +19,10 @@ flowchart TD
 
     E -- "Rejected" --> R["Inform reporter that the report was rejected"]
 
-    E -- "Core" --> AE{"Does the report indicate potential active exploitation?"}
-    AE -- "Yes" --> AEP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
-    AE -- "No" --> G["Inform reporter that the report was accepted and categorized as Core"]
-    AEP --> G
+    E -- "Core" --> F{"Does the report indicate potential active exploitation?"}
+    F -- "Yes" --> FP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
+    F -- "No" --> G["Inform reporter that the report was accepted and categorized as Core"]
+    FP --> G
     E -- "Extension" --> H["Inform reporter that the report was accepted and categorized as Extension"]
     E -- "Service / Infrastructure" --> I["Inform reporter that the report was accepted and categorized as Service / Infrastructure"]
 
@@ -63,6 +63,6 @@ flowchart TD
     Y --> Z["Inform reporter about potential TYPO3 Bug Bounty reward"]
     Z --> AA["Reward paid from corresponding team budget"]
 
-    style AE fill:#fff3cd
-    style AEP fill:#fff3cd
+    style F fill:#fff3cd
+    style FP fill:#fff3cd
 ```
