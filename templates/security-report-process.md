@@ -71,8 +71,8 @@ flowchart TD
 
     style F fill:#fff3cd
     style FP fill:#fff3cd
-    style SI fill:#fff3cd
-    style SIP fill:#fff3cd
+    style SI fill:#d4edda
+    style SIP fill:#d4edda
     style EX fill:none,stroke:none
     style EXT fill:none,stroke:none
 ```
