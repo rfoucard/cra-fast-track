@@ -8,7 +8,7 @@ flowchart TD
     A["Security report received via security@typo3.org"] --> B["Report imported into dedicated OTOBO instance"]
     B --> C["Immediate notification sent to Security Team"]
     C --> AE{"Does the report indicate potential active exploitation?"}
-    AE -- "Yes" --> AEP["Active Exploitation Assessment Process"] (./actively-exploited-vulnerability-process.md)
+    AE -- "Yes" --> AEP["<a href="https://github.com/rfoucard/cra-fast-track/blob/main/templates/actively-exploited-vulnerability-process.md">Active Exploitation Assessment Process"</a>] 
     AE -- "No" --> D["First inspection and triage (usually within 24–48 hours, potentially longer on weekends and holiday periods)"]
     AEP --> D
 
