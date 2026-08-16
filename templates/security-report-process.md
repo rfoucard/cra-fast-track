@@ -1,4 +1,4 @@
-# Security Reporting Process
+# Security Report handling Process
 
 ## Flowchart
 
