@@ -24,7 +24,7 @@ flowchart TD
     AE -- "No" --> G["Inform reporter that the report was accepted and categorized as Core"]
     AEP --> G
     E -- "Extension" --> H["Inform reporter that the report was accepted and categorized as Extension"]
-    E -- "Infrastructure" --> I["Inform reporter that the report was accepted and categorized as Infrastructure"]
+    E -- "Service / Infrastructure" --> I["Inform reporter that the report was accepted and categorized as Service / Infrastructure"]
 
     G --> G1["Create internal ticket on forge.typo3.org and notify relevant Core Development Team members"]
     H --> H1["Inform extension maintainer by email"]
