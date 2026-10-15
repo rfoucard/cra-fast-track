@@ -29,7 +29,7 @@ flowchart TD
 
     E --> G["<strong>Malicious&nbsp;code</strong> (the&nbsp;incident&nbsp;has&nbsp;led&nbsp;or&nbsp;is&nbsp;capable of leading to the introduction or execution of malicious code in TYPO3 CMS or in a user's network or information systems)"]
 
-    F --> J{"<strong>Is at least one criterion satisfied?</strong>"}
+    F --> J{"<strong>Is at least one&nbsp;criterion&nbsp;satisfied?</strong>"}
     G --> J
 
     J -- "No" --> X
