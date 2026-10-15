@@ -21,7 +21,7 @@ flowchart TD
 
     C --> D{"<strong>CRA-relevant service?</strong> (the&nbsp;affected&nbsp;service&nbsp;has&nbsp;been identified as capable of impacting the security of the TYPO3 CMS product)"}
 
-    D -- "No" --> X["<strong>Return&nbsp;to&nbsp;security report&nbsp;handling&nbsp;process</strong> \n(Record findings and decision)"]
+    D -- "No" --> X["<strong>Return&nbsp;to&nbsp;security&nbsp;report handling&nbsp;process</strong> \n(Record findings and decision)"]
 
     D -- "Yes" --> E["<strong>Severe&nbsp;incident&nbsp;assessment</strong> \n(internal&nbsp;target:&nbsp;≤&nbsp;T_received + 2 Working days)"]
 
