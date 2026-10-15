@@ -43,4 +43,6 @@ flowchart TD
 
     O --> X
 
+    L --> U["<strong>INFORM USERS</strong> \n(after becoming aware, without undue delay: inform impacted users and, where appropriate, all users; where necessary, include risk mitigation or corrective measures users can take; where appropriate, use a structured, machine-readable format)"]
+
 ```
