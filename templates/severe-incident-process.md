@@ -39,7 +39,7 @@ flowchart TD
 
     M --> N["<strong>INCIDENT NOTIFICATION via ENISA SRP</strong> \n(≤ T_CRA_awareness + 72 calendar hours)"]
 
-    N --> O["<strong>FINAL REPORT via ENISA SRP</strong> \n(no later than 1 month after submission of the incident notification; detailed incident description, severity and impact, threat type or likely root cause, and applied and ongoing mitigation measures)"]
+    N --> O["<strong>FINAL REPORT via ENISA SRP</strong> \n((≤ T_CRA_incident_notification + 1 month))"]
 
     O --> X
 
