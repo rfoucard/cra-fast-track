@@ -33,13 +33,13 @@ flowchart TD
     G --> J
 
     J -- "No" --> X
-    J -- "Yes" --> L["<strong>CRA AWARENESS</strong> \n(T_CRA_awareness = earliest point at which sufficient information satisfies at least one severe incident criterion)"]
+    J -- "Yes" --> L["<strong>CRA AWARENESS</strong> \n(T_CRA_awareness&nbsp;=&nbsp;earliest&nbsp;point at which sufficient information satisfies at least one severe incident criterion)"]
 
-    L --> M["<strong>EARLY WARNING via ENISA SRP</strong> \n(without undue delay, ≤ T_CRA_awareness + 24 calendar hours)"]
+    L --> M["<strong>EARLY WARNING via ENISA SRP</strong> \n(≤&nbsp;T_CRA_awareness&nbsp;+&nbsp;24&nbsp;calendar&nbsp;hours)"]
 
-    M --> N["<strong>INCIDENT NOTIFICATION via ENISA SRP</strong> \n(≤ T_CRA_awareness + 72 calendar hours)"]
+    M --> N["<strong>INCIDENT NOTIFICATION via ENISA SRP</strong> \n(≤&nbsp;T_CRA_awareness&nbsp;+&nbsp;72&nbsp;calendar&nbsp;hours)"]
 
-    N --> O["<strong>FINAL REPORT via ENISA SRP</strong> \n((≤ T_CRA_incident_notification + 1 month))"]
+    N --> O["<strong>FINAL REPORT via ENISA SRP</strong> \n((≤&nbsp;T_CRA_incident_notification&nbsp;+&nbsp;1&nbsp;month))"]
 
     O --> X
 
