@@ -15,7 +15,7 @@
 ```mermaid
 flowchart TD
 
-    A["<strong>Severe&nbsp;Incident&nbsp;report&nbsp;received</strong> \n(T_received)"] --> B["<strong>Record report, source, evidence and reception timestamp</strong>"]
+    A["<strong>Severe&nbsp;Incident&nbsp;report&nbsp;received</strong> \n(T_received)"] --> B["<strong>Record&nbsp;report,&nbsp;source, evidence and reception timestamp</strong>"]
 
     B --> C["<strong>Priority triage</strong> \n(internal target: ≤ T_received + 1 Working day)"]
 
