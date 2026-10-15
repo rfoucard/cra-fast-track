@@ -17,7 +17,7 @@ flowchart TD
 
     A["<strong>Severe&nbsp;Incident&nbsp;report&nbsp;received</strong> \n(T_received)"] --> B["<strong>Record&nbsp;report,&nbsp;source, evidence and reception timestamp</strong>"]
 
-    B --> C["<strong>Priority triage</strong> \n(internal target: ≤ T_received + 1 Working day)"]
+    B --> C["<strong>Priority triage</strong> \n(internal&nbsp;target:&nbsp;≤&nbsp;T_received + 1 Working day)"]
 
     C --> D{"<strong>CRA-relevant service?</strong> (the affected service has been identified as capable of impacting the security of the TYPO3 CMS product)"}
 
