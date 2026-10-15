@@ -25,9 +25,9 @@ flowchart TD
 
     D -- "Yes" --> E["<strong>Severe&nbsp;incident&nbsp;assessment</strong> \n(internal&nbsp;target:&nbsp;≤&nbsp;T_received + 2 Working days)"]
 
-    E --> F["<strong>Security properties affected</strong> (the incident negatively affects or is capable of negatively affecting the availability, authenticity, integrity or confidentiality of sensitive or important data or functions)"]
+    E --> F["<strong>Security&nbsp;properties&nbsp;affected</strong> (the incident negatively affects or is capable of negatively affecting the availability, authenticity, integrity or confidentiality of sensitive or important data or functions)"]
 
-    E --> G["<strong>Malicious code</strong> (the incident has led or is capable of leading to the introduction or execution of malicious code in TYPO3 CMS or in a user's network or information systems)"]
+    E --> G["<strong>Malicious&nbsp;code</strong> (the&nbsp;incident&nbsp;has&nbsp;led&nbsp;or&nbsp;is&nbsp;capable of leading to the introduction or execution of malicious code in TYPO3 CMS or in a user's network or information systems)"]
 
     F --> J{"<strong>Is at least one criterion satisfied?</strong>"}
     G --> J
