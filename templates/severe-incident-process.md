@@ -10,6 +10,8 @@
 
 **Regulatory deadline**: A mandatory time limit established by the related regulation.
 
+**T_received**: refers to the original report time from the security report process.
+
 ## Flowchart
 
 ```mermaid
