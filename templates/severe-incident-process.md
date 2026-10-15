@@ -23,7 +23,7 @@ flowchart TD
 
     D -- "No" --> X["<strong>Return to security report handling process</strong> \n(Record findings and decision)"]
 
-    D -- "Yes" --> E["<strong>Severe incident assessment</strong> \n(internal target: ≤ T_received + 2 Working days)"]
+    D -- "Yes" --> E["<strong>Severe&nbsp;incident&nbsp;assessment</strong> \n(internal&nbsp;target:&nbsp;≤&nbsp;T_received + 2 Working days)"]
 
     E --> F["<strong>Security properties affected</strong> (the incident negatively affects or is capable of negatively affecting the availability, authenticity, integrity or confidentiality of sensitive or important data or functions)"]
 
